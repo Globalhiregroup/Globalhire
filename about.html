@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Global Hire || About</title>
+
+     <!--=====FAB ICON=======-->
+     <link rel="shortcut icon" href="assets/img/logo/Logo.png" type="image/x-icon">
+
+
+     <!--=====CSS=======-->
+     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+     <link rel="stylesheet" href="assets/css/fontawesome.css">
+     <link rel="stylesheet" href="assets/css/magnific-popup.css">
+     <link rel="stylesheet" href="assets/css/nice-select.css">
+     <link rel="stylesheet" href="assets/css/slick-slider.css">
+     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+     <link rel="stylesheet" href="assets/css/aos.css">
+     <link rel="stylesheet" href="assets/css/mobile-menu.css">
+     <link rel="stylesheet" href="assets/css/main.css">
+
+
+
+     <!--=====JQUERY=======-->
+     <script src="assets/js/jquery-3-6-0.min.js"></script>
+</head>
+<body class="body">
+
+
+    <!-- Preloader Start -->
+	<div class="preloader">
+		<div class="loading-container">
+			<div class="loading"></div>
+			<div id="loading-icon"><img src="assets/img/logo/Logo.png" alt=""></div>
+		</div>
+	</div>
+	<!-- Preloader End -->
+
+  <!--=====progress END=======-->
+
+<div class="paginacontainer"> 
+
+  <div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+    </svg>
+  </div>
+
+</div> 
+
+<!--=====progress END=======-->
+
+<!--=====HEADER START=======-->
+<header>
+  <div
+    class="header-area header-area1 header-area-all d-none d-lg-block"
+    id="header"
+  >
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="header-elements">
+            <div class="site-logo">
+              <a href="/">
+                <img src="assets/img/logo/Logo.png" alt="" />
+              </a>
+            </div>
+
+            <div class="main-menu-ex main-menu-ex1">
+              <ul>
+                <li><a href="/" lang="lang-menu-home">Home</a></li>
+
+                <li class="dropdown-menu-parrent d-inline-flex align-items-center">
+                  <a
+                    href="service.html"
+                    class="main1"
+                    lang="lang-menu-services"
+                    >Our Service
+                    </a
+                  >
+                  <i class="fa-solid fa-angle-down"></i>
+                  <ul>
+                    <li><a href="service-details-IT.html" lang="lang-service-it_title">Job Post</a></li>
+                    <li><a href="service-details-construction.html" lang="lang-service-construction_title">Job Details</a></li>
+                    <li><a href="service-details-hotel.html" lang="lang-service-hotel_title">Job Post</a></li>
+                    <li><a href="service-details-agriculture.html" lang="lang-service-agriculture_title">Job Details</a></li>
+                    <li><a href="service-details-worker.html" lang="lang-service-production_title">Job Post</a></li>
+                    <li><a href="service-details-transport.html" lang="lang-service-transport_title">Job Details</a></li>
+                    <li><a href="service-details-fiber.html" lang="lang-service-fiber_title">Fiber</a></li>
+                   </ul>
+                </li>
+                
+                <li class="dropdown-menu-parrent">
+                  <a href="about.html" class="main1" lang="lang-menu-about"
+                    >About us
+                  </a>
+                </li>
+
+                <li class="dropdown-menu-parrent">
+                  <a
+                    href="job-post.html"
+                    class="main1"
+                    lang="lang-menu-jobs"
+                    >Hot Jobs</a
+                  >
+                </li>
+              </ul>
+            </div>
+
+            <div class="header2-buttons d-flex gap-2">
+              <div class="button text-nowrap">
+                <a
+                  class="theme-btn1"
+                  href="/#contact_us"
+                  lang="lang-menu-contact"
+                  >Contact Us<span
+                    ><i class="fa-solid fa-arrow-right"></i></span
+                ></a>
+              </div>
+              <select
+                class="form-select"
+                id="country_select"
+                onchange="loadsLanguage(this.value);"
+              >
+                <option value="EN">English</option>
+                <option value="DU">Dutch</option>
+                <option value="GE">Germany</option>
+                <option value="FE">French</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!--=====HEADER END=======-->
+
+<!--=====Mobile header start=======-->
+<div class="mobile-header mobile-header-main d-block d-lg-none">
+  <div class="container-fluid">
+    <div class="col-12">
+      <div class="mobile-header-elements">
+        <div class="mobile-logo">
+          <a href="index1.html"
+            ><img src="assets/img/logo/Logo.png" alt=""
+          /></a>
+        </div>
+        <div class="d-flex gap-1">
+          <select
+            id="country_select_mobile"
+            onchange="loadsLanguage(this.value)"
+          >
+            <option value="EN">🇺🇸</option>
+            <option value="DU">🇳🇱</option>
+            <option value="GE">🇩🇪</option>
+            <option value="FE">🇫🇷</option>
+          </select>
+          <div class="mobile-nav-icon">
+            <i class="fa-duotone fa-bars-staggered"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="mobile-sidebar d-block d-lg-none">
+  <div class="logo-m">
+    <a href="/"><img src="assets/img/logo/Logo.png" alt="" /></a>
+  </div>
+  <div class="menu-close">
+    <i class="fa-solid fa-xmark"></i>
+  </div>
+  <div class="mobile-nav">
+    <ul>
+      <li class="has-dropdown">
+        <a href="#" lang="lang-menu-home">Home </a>
+      </li>
+      <li class="has-dropdown">
+        <a href="service.html" lang="lang-menu-services">Our Services</a>
+        <ul class="sub-menu">
+          <li><a href="service-details-IT.html" lang="lang-service-it_title">Job Post</a></li>
+          <li><a href="service-details-construction.html" lang="lang-service-construction_title">Job Details</a></li>
+          <li><a href="service-details-hotel.html" lang="lang-service-hotel_title">Job Post</a></li>
+          <li><a href="service-details-agriculture.html" lang="lang-service-agriculture_title">Job Details</a></li>
+          <li><a href="service-details-worker.html" lang="lang-service-production_title">Job Post</a></li>
+          <li><a href="service-details-transport.html" lang="lang-service-transport_title">Job Details</a></li>
+          <li><a href="service-details-fiber.html" lang="lang-service-fiber_title">Fiber</a></li>
+      </ul>
+      </li>
+
+      <li class="has-dropdown">
+        <a href="about.html" lang="lang-menu-about">About Us</a>
+      </li>
+      <li class="has-dropdown">
+        <a href="job-post.html" lang="lang-menu-jobs">Hot Jobs</a>
+      </li>
+    </ul>
+
+    <div class="mobile-button">
+      <a class="theme-btn1" href="/#contact_us" lang="lang-menu-contact"
+        >Contact Us <span><i class="fa-solid fa-arrow-right"></i></span
+      ></a>
+    </div>
+
+    <div class="single-footer-items">
+      <h3>Contact</h3>
+
+      <div class="contact-box">
+        <div class="icon">
+          <img src="assets/img/icons/footer-icon1.png" alt="" />
+        </div>
+        <div class="pera">
+          <a href="tel:+31247810024">+31 247 810 024 (NL)</a> 
+          <br />
+          <a href="tel:+84867188170">+84 867 188 170 (VN) </a>
+        </div>
+      </div>
+
+      <div class="contact-box">
+        <div class="icon">
+          <img src="assets/img/icons/footer-icon2.png" alt="" />
+        </div>
+        <div class="pera">
+          <a href="mailto:Info@globalhire.group">Info@globalhire.group</a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="contact-infos">
+      <h3 lang="lang-menu-location">Our Location</h3>
+      <ul class="social-icon">
+        <li>
+          <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa-brands fa-youtube"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+      
+            <!--=====Mobile header end=======-->
+   
+
+        <!--=====HERO AREA START =======-->
+
+        <div class="common-hero">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 m-auto text-center">
+                        <div class="main-heading">
+                            <h1 lang="lang-menu-about">About Us</h1>
+                            <div class="pages-intro">
+                              <a href="/" lang="lang-menu-home">Home </a>
+                              <span><i class="fa-regular fa-angle-right"></i></span>
+                              <p lang="lang-menu-about">About Us</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--=====HERO AREA END=======-->
+
+                <!--=====ABOUT AREA START=======-->
+
+                <div class="about3 sp">
+                  <div class="container">
+                    <div class="row align-items-center">
+                      <div class="col-lg-6">
+                        <div class="about3-images">
+                          <div class="row">
+                            <div class="col-lg-6">
+                              <div class="image reveal">
+                                <img src="assets/img/images/business-owner-working-their-strategy.jpg" alt="">
+                              </div>
+                              <div class="conter-box conter-box1" data-aos="zoom-out" data-aos-duration="700">
+                                <h3><span class="counter">10 & 200+</span></h3>
+                                <p lang="lang-about-project">Projects & Talents</p>
+                              </div>
+                            </div>
+        
+                            <div class="col-lg-6">
+                              <div class="conter-box conter-box2" data-aos="zoom-out" data-aos-duration="700">
+                                <h3><span class="counter">6</span>+</h3>
+                                <p lang="lang-about-exp">Years of Experienced</p>
+                              </div>
+                              <div class="image reveal overlay-anim">
+                                <img src="assets/img/images/pretty-asian-woman-with-tablet-office.jpg" alt="">
+                              </div>
+                            </div>
+        
+                          </div>
+                        </div>
+                      </div>
+        
+                      <div class="col-lg-6">
+                        <div class="heading3 about3-heading">
+                          <span class="span" data-aos="zoom-in-left" data-aos-duration="700" lang="lang-about-about_us">About Us</span>
+                          <h2 class="text-anime-style-3" lang="lang-about-our_story">Our Story Connecting Talent, Powering Success</h2>
+                          <div class="space16"></div>
+                          <p data-aos="fade-left" data-aos-duration="700" lang="lang-about-our_team">Our team of industry experts is dedicated to understanding your unique needs and delivering tailored solutions that propel your business forward.</p>
+        
+                          <div class="about3-icon-box" data-aos="fade-left" data-aos-duration="900">
+                            <div class="">
+                              <div class="icon">
+                                <img src="assets/img/icons/about3-icon1.png" alt="">
+                              </div>
+                            </div>
+                            <div class="heading3">
+                              <h5><a href="service.html" lang="lang-about-empower">Empowering Careers, Driving Growth</a></h5>
+                              <p lang="lang-about-strategic_partner">we are your strategic partner in talent acquisition. With a steadfast commitment to excellence</p>
+                            </div>
+                          </div>
+        
+                          <div class="about3-icon-box" data-aos="fade-left" data-aos-duration="1100">
+                            <div class="">
+                              <div class="icon">
+                                <img src="assets/img/icons/about3-icon2.png" alt="">
+                              </div>
+                            </div>
+                            <div class="heading3">
+                              <h5><a href="service.html" lang="lang-about-leader">Leaders in Staffing Excellence</a></h5>
+                              <p lang="lang-about-discover">Discover the difference with Your Agency Name and unlock new possibilities for growth </p>
+                            </div>
+                          </div>
+      
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+        
+                <!--=====ABOUT AREA END=======-->
+
+
+                <!--=====OUR MISSION AREA START=======-->
+
+                <div class="mission sp">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-lg-7 m-auto text-center">
+                        <div class="heading1">
+                          <span class="span" lang="lang-about-mission">Our Mission</span>
+                          <h2 lang="lang-about-mission_title">Success Our Guiding Mission</h2>
+                          <div class="space16"></div>
+                          <p lang="lang-about-mission_description"> We believe that by connecting talented professionals with leading companies, we can create opportunities for growth, innovation</p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="space30"></div>
+                    <div class="row">
+                      <div class="col-lg-3 col-md-6">
+                        <div class="mission-box">
+                          <div class="icon">
+                            <img src="assets/img/icons/mission-icon1.png" alt="">
+                          </div>
+                          <div class="heading1">
+                            <h5><a href="#" lang="lang-about-mission_1_title">Connecting Talent Opportunity</a></h5>
+                            <div class="space16"></div>
+                            <p lang="lang-about-mission_1_description">With a focus integrity, collaboration, and personalized service, we strive</p>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-3 col-md-6">
+                        <div class="mission-box">
+                          <div class="icon">
+                            <img src="assets/img/icons/mission-icon2.png" alt="">
+                          </div>
+                          <div class="heading1">
+                            <h5><a href="#" lang="lang-about-mission_2_title">Careers, Elevating Businesses</a></h5>
+                            <div class="space16"></div>
+                            <p lang="lang-about-mission_2_description">Our commitment excellence guides everything we do ,understanding </p>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-3 col-md-6">
+                        <div class="mission-box">
+                          <div class="icon">
+                            <img src="assets/img/icons/mission-icon3.png" alt="">
+                          </div>
+                          <div class="heading1">
+                            <h5><a href="#" lang="lang-about-mission_3_title"> Driving Success Together</a></h5>
+                            <div class="space16"></div>
+                            <p lang="lang-about-mission_3_description"> We believe that connecting talented professionals leading companies</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-6">
+                        <div class="mission-box">
+                          <div class="icon">
+                            <img src="assets/img/icons/contact-icon2.png" alt="">
+                          </div>
+                          <div class="heading1">
+                            <h5><a href="#" lang="lang-about-mission_4_title"> Driving Success Together</a></h5>
+                            <div class="space16"></div>
+                            <p lang="lang-about-mission_4_description"> We believe that connecting talented professionals leading companies</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!--=====OUR MISSION AREA END=======-->
+
+                
+
+             <!--=====TESTIMONIAL AREA START=======-->
+
+             <!-- <div class="tes3 sp">
+              <div class="container">
+                <div class="row align-items-center">
+                  <div class="col-lg-6">
+                    <div class="heading3">
+                      <span class="span" data-aos-duration="800" data-aos="zoom-in-left">Testimonial</span>
+                      <h2 class="text-anime-style-3">Real Stories, Real Results </h2>
+                      <div class="space16"></div>
+                      <p data-aos="fade-right" data-aos-duration="900">Discover why businesses trust us to find the right talent and candidates trust us to find the perfect fit.</p>
+                    </div>
+                  </div>
+      
+                  <div class="col-lg-6">
+                    <div class="tes7-buttons" data-aos="fade-left" data-aos-duration="800">
+                      <button class="testimonial-prev-arrow1"><i class="fa-regular fa-arrow-left"></i></button>
+                      <button class="testimonial-next-arrow1"><i class="fa-regular fa-arrow-right"></i></button>
+                    </div>
+                  </div>
+      
+                </div>
+      
+                <div class="space60"></div>
+                <div class="row">
+                  <div class="tes1-slider" data-aos="fade-up" data-aos-duration="800">
+                    <div class="single-slider">
+                          <div class="single-slider-content">
+                            <ul class="stars">
+                              <li><i class="fa-solid fa-star"></i></li>
+                              <li><i class="fa-solid fa-star"></i></li>
+                              <li><i class="fa-solid fa-star"></i></li>
+                              <li><i class="fa-solid fa-star"></i></li>
+                              <li><i class="fa-solid fa-star"></i></li>
+                            </ul>
+                            <div class="pera">
+                              <p>"Discover what our clients have to say about their experience with Global Hire. From small businesses to Fortune 500 companies, our tailored staffing solutions have left a lasting impact on organizations across industries. With a focus on excellence”</p>
+                            </div>
+                          </div>
+                          <div class="bottom-heading">
+                            <div class="heading3">
+                              <h4><a href="#">Junaid Hasan</a></h4>
+                            <p>Vp,Daily Naws</p>
+                            </div>
+                          </div>
+                    </div>
+      
+                    <div class="single-slider">
+                      <div class="single-slider-content">
+                        <ul class="stars">
+                          <li><i class="fa-solid fa-star"></i></li>
+                          <li><i class="fa-solid fa-star"></i></li>
+                          <li><i class="fa-solid fa-star"></i></li>
+                          <li><i class="fa-solid fa-star"></i></li>
+                          <li><i class="fa-solid fa-star"></i></li>
+                        </ul>
+                        <div class="pera">
+                          <p>“From startups seeking their first hires to established corporations aiming to expand their teams, our tailored staffing solutions have consistently exceeded expectations. With testimonials highlighting our ability to find the perfect , our tailored staffing solutions”</p>
+                        </div>
+                      </div>
+                      <div class="bottom-heading">
+                        <div class="heading3">
+                          <h4><a href="#">Amir Jamil</a></h4>
+                        <p>Co Funder</p>
+                        </div>
+                      </div>
+                </div>
+      
+                <div class="single-slider">
+                  <div class="single-slider-content">
+                    <ul class="stars">
+                      <li><i class="fa-solid fa-star"></i></li>
+                      <li><i class="fa-solid fa-star"></i></li>
+                      <li><i class="fa-solid fa-star"></i></li>
+                      <li><i class="fa-solid fa-star"></i></li>
+                      <li><i class="fa-solid fa-star"></i></li>
+                    </ul>
+                    <div class="pera">
+                      <p>"Discover what our clients have to say about their experience with Global Hire. From small businesses to Fortune 500 companies, our tailored staffing solutions have left a lasting impact on organizations across industries. With a focus on excellence”</p>
+                    </div>
+                  </div>
+                  <div class="bottom-heading">
+                    <div class="heading3">
+                      <h4><a href="#">Junaid Hasan</a></h4>
+                    <p>Vp,Daily Naws</p>
+                    </div>
+                  </div>
+            </div>
+      
+            <div class="single-slider">
+              <div class="single-slider-content">
+                <ul class="stars">
+                  <li><i class="fa-solid fa-star"></i></li>
+                  <li><i class="fa-solid fa-star"></i></li>
+                  <li><i class="fa-solid fa-star"></i></li>
+                  <li><i class="fa-solid fa-star"></i></li>
+                  <li><i class="fa-solid fa-star"></i></li>
+                </ul>
+                <div class="pera">
+                  <p>“From startups seeking their first hires to established corporations aiming to expand their teams, our tailored staffing solutions have consistently exceeded expectations. With testimonials highlighting our ability to find the perfect , our tailored staffing solutions”</p>
+                </div>
+              </div>
+              <div class="bottom-heading">
+                <div class="heading3">
+                  <h4><a href="#">Amir Jamil</a></h4>
+                <p>Co Funder</p>
+                </div>
+              </div>
+        </div>
+      
+      
+                  </div>
+                </div>
+              </div>
+            </div> -->
+
+      <!--=====TESTIMONIAL AREA END=======-->
+
+      
+        
+            <!--===== CTA AREA START =======-->
+
+            <div class="cta">
+              <div class="container">
+                <div class="row cta-border align-items-center">
+                  <div class="col-lg-6">
+                    <div class="heading1-w">
+                      <h2 lang="lang-home-ready_to_power">
+                        Ready to Power up your Savings and Reliability?
+                      </h2>
+                      <div class="space16"></div>
+                      <!-- <p lang="lang-home-cta_description">
+                        Feel free to customize this paragraph to better reflect the
+                        specific services offered by your IT solution & the unique
+                      </p> -->
+                    </div>
+                  </div>
+        
+                  <div class="col-lg-6">
+                    <div class="subscribe-area">
+                      <form action="#" id="subscribe-form">
+                        <input type="email" placeholder="Email Address" />
+                        <div class="button">
+                          <button type="submit" id="submit-button" class="theme-btn1">
+                            Subscribe Now
+                            <span><i class="fa-solid fa-arrow-right"></i></span>
+                          </button>
+                        </div>
+                      </form>
+                      <div id="success-popup" class="popup hidden">
+                        <div class="popup-content">
+                          <p lang="lang-home-form_submit_success">Form submitted successfully!</p>
+                          <button lang="lang-home-close" id="close-popup">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!--===== CTA AREA START =======-->
+
+            <!--===== FOOTER AREA START =======-->
+
+            <div class="footer1 _relative">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-4 col-md-6 col-12">
+                    <div class="single-footer-items footer-logo-area">
+                      <div class="footer-logo">
+                        <a href=""
+                          ><img src="assets/img/logo/Logo-white.png" alt=""
+                        /></a>
+                      </div>
+                      <div class="space20"></div>
+                      <div class="heading1-w">
+                        <p lang="lang-footer-title">
+                          Our goal is to demystify the process, address your concerns,
+                          and empower you with the knowledge to embark.
+                        </p>
+                      </div>
+                      <ul class="social-icon">
+                        <li>
+                          <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                        </li>
+                        <li>
+                          <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                        </li>
+                        <li>
+                          <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                        </li>
+                        <li>
+                          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+        
+                  <div class="col-lg col-md-6 col-12">
+                    <div class="single-footer-items pl-5">
+                      <h3 lang="lang-footer-explore">Explore</h3>
+        
+                      <ul class="menu-list">
+                        <li><a lang="lang-menu-home" href="/">Home </a></li>
+                        <li>
+                          <a href="about.html" lang="lang-menu-about">About Us</a>
+                        </li>
+                        <li>
+                          <a href="service.html" lang="lang-menu-services"
+                            >Our Services</a
+                          >
+                        </li>
+                        <li>
+                          <a href="testimonial.html" lang="lang-menu-jobs">Hot Jobs</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+        
+                  <div class="col-lg-4 col-md-6 col-12">
+                    <div class="single-footer-items">
+                      <h3 lang="lang-footer-contact">Contact Us</h3>
+                      <div class="contact-box">
+                        <div class="icon">
+                          <img src="assets/img/icons/footer-icon2.png" alt="" />
+                        </div>
+                        <div class="pera">
+                          <a href="mailto:Info@globalhire.group"
+                            >Info@globalhire.group</a
+                          >
+                        </div>
+                      </div>
+        
+                      <div class="contact-box">
+                        <div class="icon">
+                          <img src="assets/img/icons/footer-icon3.png" alt="" />
+                        </div>
+                        <div class="pera">
+                          <a target="_blank" href="https://www.google.com/maps/place/Heyendaalseweg+203,+6525+SE+Nijmegen,+Netherlands/@51.777542,5.6909302,10.9z/data=!4m16!1m9!3m8!1s0x47c708e71cf260a7:0x7e39069c6a99705f!2sHeyendaalseweg+203,+6525+SE+Nijmegen,+Netherlands!3b1!8m2!3d51.8142869!4d5.8672531!10e5!16s%2Fg%2F11c5qgp4tb!3m5!1s0x47c708e71cf260a7:0x7e39069c6a99705f!8m2!3d51.8142869!4d5.8672531!16s%2Fg%2F11c5qgp4tb?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D"
+                            >Globalhire Group NL
+                            <br />
+                            Heyendaalseweg 203 <br /> 6525 SE Nijmegen<br/> Nederland</a
+                          >
+                        </div>
+                      </div>
+                      <div class="contact-box">
+                        <div class="icon">
+                          <img src="assets/img/icons/footer-icon1.png" alt="" />
+                        </div>
+                        <div class="pera">
+                          <a href="tel:+31247810024">+31 247 810 024 </a>
+                        </div>
+                      </div>
+                      <div class="contact-box">
+                        <div class="icon">
+                          <img src="assets/img/icons/footer-icon3.png" alt="" />
+                        </div>
+                        <div class="pera">
+                          <a target="_blank" href="https://www.google.com/maps/place/17+%C4%90.+S%E1%BB%91+19,+An+Ph%C3%BA,+Th%E1%BB%A7+%C4%90%E1%BB%A9c,+H%E1%BB%93+Ch%C3%AD+Minh/@10.7952228,106.7385587,14.54z/data=!4m6!3m5!1s0x3175260dfea09785:0x6bfa258fbd42506e!8m2!3d10.7974054!4d106.7414569!16s%2Fg%2F11fz95vc3b?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D"
+                            >Globalhire Group VN<br />
+                            số 17,Đường Số 19 Phường An Phú<br/> Quận 2, 700000 Hồ Chí Minh <br/>
+                            Vietnam
+                          </a>
+                        </div>
+                      </div>
+                      <div class="contact-box">
+                        <div class="icon">
+                          <img src="assets/img/icons/footer-icon1.png" alt="" />
+                        </div>
+                        <div class="pera">
+                          <a href="tel:+84867188170">+84 867 188 170 </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+        
+                <div class="space70"></div>
+              </div>
+        
+              <div class="copyright-area _relative">
+                <div class="container">
+                  <div class="row align-items-center">
+                    <div class="col-md-12">
+                      <div class="coppyright">
+                        <p>@Copyright 2025 – GlobalHire Group. All Rights Reserved.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        
+                <!--===== FOOTER AREA END =======-->
+
+
+      <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+      <script src="assets/js/bootstrap.min.js"></script>
+      <script src="assets/js/aos.js"></script>
+      <script src="assets/js/fontawesome.js"></script>
+      <script src="assets/js/jquery.countup.js"></script>
+      <script src="assets/js/mobile-menu.js"></script>
+      <script src="assets/js/jquery.magnific-popup.js"></script>
+      <script src="assets/js/owl.carousel.min.js"></script>
+      <script src="assets/js/slick-slider.js"></script>
+      <script src="assets/js/gsap.min.js"></script>
+      <script src="assets/js/ScrollTrigger.min.js"></script>
+      <script src="assets/js/Splitetext.js"></script>
+      <script src="assets/js/SmoothScroll.js"></script>
+      <script src="assets/js/text-animation.js"></script>
+      <script src="assets/js/jquery.lineProgressbar.js"></script>
+      <script src="assets/js/tilt.jquery.js"></script>
+      <script src="assets/js/main.js"></script>
+
+
+</body>
+</html>
