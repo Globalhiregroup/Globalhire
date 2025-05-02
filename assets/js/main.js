@@ -10,6 +10,14 @@
     localStorage.setItem('lang', lang);
     $('#country_select').val(lang);
     $('#country_select_mobile').val(lang);
+    //check if lang value is DU, show nl address with id nl-address
+    if (lang === 'DU') {
+      $('#vn-address').addClass('hidden');
+      $('#nl-address').removeClass('hidden');
+    } else {
+      $('#vn-address').removeClass('hidden');
+      $('#nl-address').addClass('hidden');
+    }
     $('[data-placeholder-key]').each(function () {
       const placeholderKey = $(this).data('placeholder-key');
       const placeholderText = window.LANGUAGE_DATA['WORDS_' + lang]['placeholders'][placeholderKey];

@@ -21000,6 +21000,9 @@ li.has-dropdown1 span {
 .font-bold {
   font-weight: 700;
 }
+.hidden {
+  display: none;
+}
 /*
 ::::::::::::::::::::::::::
  NAV MENU AREA CSS
