@@ -1,0 +1,271 @@
+{
+  "WORDS_EN": [
+    {
+      "id": "1",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Optical Fiber",
+      "location": "Europe",
+      "salary": "Up-to €10.000 / Month",
+      "company": "GlobalHire Clients",
+      "description": "Are you experienced in fiber optic installations, whether in the ground or overhead? Join our growing international team working on FttH and FttX rollouts across Europe. We’re hiring full crews: from heavy equipment operators and splicers to home installation techs.",
+      "responsibilities": [
+        "Operate excavation machinery (mini diggers, trenchers, vacuum trucks)",
+        "Manual trenching and reinstatement of roads, pavements, and sidewalks",
+        "Fiber blowing, pulling, and splicing using OTDR and fusion splicers",
+        "Marking and navigating underground infrastructure (gas, water, power lines)",
+        "Mounting fiber optic cables on poles and façade routes",
+        "Installing distribution boxes and terminals (DPs, ONTs)",
+        "Pulling and routing fiber cables through building entry points",
+        "Performing final home and business installations (FttH termination)",
+        "Troubleshooting, signal testing, and activation"
+      ],
+      "requirements": [
+        "Experience in FttH or FttX (underground or overhead)",
+        "Certification in fiber optics is a plus",
+        "Safety knowledge around utility zones and roadworks",
+        "Driving license (B or C/CE preferred)",
+        "Basic English or local language for on-site coordination"
+      ],
+      "perks": [
+        "Long-term freelance contracts with competitive pay",
+        "Housing and transport assistance",
+        "Deployment to projects in France, the Netherlands, Germany, and beyond",
+        "Weekly payouts and quick onboarding"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Seasonal Contract",
+      "title": "Agricultural Worker – Seasonal Farm & Greenhouse Support",
+      "location": "Europe",
+      "salary": "€1400 / Month + Accommodation Provided",
+      "company": "GlobalHire Clients",
+      "description": "Do you enjoy working with nature and don’t mind getting your hands dirty? GlobalHire is recruiting seasonal agricultural workers across Europe to support farms and greenhouses during peak harvest periods. Whether you’re experienced or just eager to work, we have flexible positions available in fruit & vegetable picking, greenhouse maintenance, and packaging.",
+      "responsibilities": [
+        "Can work long hours on your feet or in crouched positions",
+        "Are comfortable working in open-air conditions or greenhouse heat",
+        "Can follow instructions and work as part of a team",
+        "Are available for short-term (4–12 weeks) or longer placements",
+        "Have experience with farm work, packing lines, or plant care (a plus, not required)"
+      ],
+      "requirements": [
+        "Physical fitness and endurance for manual labor",
+        "Ability to work early mornings, weekends, and overtime during harvest peaks",
+        "Willingness to relocate seasonally within Europe",
+        "Valid work permit or EU residence preferred (assistance possible for select candidates)",
+        "Basic communication skills in English or local language"
+      ],
+      "perks": [
+        "Paid seasonal contracts with guaranteed working hours",
+        "Free or subsidized accommodation near the farm/greenhouse",
+        "Weekly pay structure with optional overtime bonuses",
+        "Support with documents, orientation, and transport",
+        "Opportunity to return annually for recurring contracts"
+      ]
+    }
+  ],
+  "WORDS_DU": [
+    {
+      "id": "1",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Glasvezel",
+      "location": "Europa",
+      "salary": "Tot €10.000 / Maand",
+      "company": "GlobalHire Klanten",
+      "description": "Heb je ervaring met het installeren van glasvezel, zowel ondergronds als bovengronds? Sluit je aan bij ons groeiende internationale team dat werkt aan FttH- en FttX-uitrolprojecten in heel Europa. We zoeken volledige teams: van machinisten en lassers tot installatietechnici voor thuisinstallaties.",
+      "responsibilities": [
+        "Bedienen van graafmachines (mini-graafmachines, sleuvengravers, vacuümwagens)",
+        "Handmatig graven en herstellen van wegen, trottoirs en stoepen",
+        "Blaastechniek, trekken en lassen van glasvezel met OTDR en fusielassers",
+        "Markeren en navigeren van ondergrondse infrastructuur (gas-, water-, elektriciteitsleidingen)",
+        "Bevestigen van glasvezelkabels op palen en gevelroutes",
+        "Installeren van verdeelkasten en aansluitpunten (DP’s, ONT’s)",
+        "Trekken en geleiden van glasvezelkabels door invoerpunten van gebouwen",
+        "Uitvoeren van eindinstallaties bij woningen en bedrijven (FttH-afwerking)",
+        "Storingen oplossen, signaaltesten en activatie"
+      ],
+      "requirements": [
+        "Ervaring met FttH of FttX (ondergronds of bovengronds)",
+        "Certificering in glasvezeltechniek is een pluspunt",
+        "Kennis van veiligheid rondom nutsvoorzieningen en wegwerkzaamheden",
+        "Rijbewijs (B of C/CE heeft de voorkeur)",
+        "Basiskennis Engels of lokale taal voor coördinatie op locatie"
+      ],
+      "perks": [
+        "Langdurige freelancecontracten met concurrerende beloning",
+        "Hulp bij huisvesting en vervoer",
+        "Projectplaatsingen in Frankrijk, Nederland, Duitsland en meer",
+        "Wekelijkse uitbetalingen en snelle onboarding"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Seizoenscontract",
+      "title": "Landbouwwerker – Seizoenswerk op boerderij & in kas",
+      "location": "Europa",
+      "salary": "€1400 / Maand + Verblijf inbegrepen",
+      "company": "GlobalHire Klanten",
+      "description": "Werk je graag met de natuur en vind je het niet erg om vies te worden? GlobalHire werft seizoensarbeiders voor landbouw over heel Europa om boerderijen en kassen te ondersteunen tijdens de oogstpieken. Of je nu ervaring hebt of gewoon graag wilt werken, we hebben flexibele functies beschikbaar in het plukken van groenten & fruit, kasonderhoud en verpakking.",
+      "responsibilities": [
+        "In staat om lange uren te staan of te hurken tijdens het werk",
+        "Comfortabel werken in de buitenlucht of warme kasomstandigheden",
+        "Kunnen instructies opvolgen en in teamverband werken",
+        "Beschikbaar zijn voor korte (4–12 weken) of langere periodes",
+        "Ervaring met boerderijwerk, verpakkingslijnen of plantenverzorging (pré, geen vereiste)"
+      ],
+      "requirements": [
+        "Fysieke fitheid en uithoudingsvermogen voor handmatig werk",
+        "Beschikbaarheid om vroeg te starten, in het weekend te werken en overuren te maken tijdens oogstperiodes",
+        "Bereidheid om tijdelijk binnen Europa te verhuizen",
+        "Geldig werkvergunning of EU-verblijfsvergunning heeft de voorkeur (ondersteuning mogelijk voor geselecteerde kandidaten)",
+        "Basiscommunicatie in het Engels of lokale taal"
+      ],
+      "perks": [
+        "Betaalde seizoenscontracten met gegarandeerde werkuren",
+        "Gratis of gesubsidieerd verblijf nabij boerderij/kas",
+        "Wekelijkse betaling met optionele overurentoeslagen",
+        "Ondersteuning bij documenten, introductie en vervoer",
+        "Mogelijkheid om jaarlijks terug te keren voor herhaalde contracten"
+      ]
+    }
+  ],
+  "WORDS_GE": [
+    {
+      "id": "1",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freiberuflich",
+      "title": "Glasfaserkabel",
+      "location": "Europa",
+      "salary": "Bis zu 10.000 € / Monat",
+      "company": "GlobalHire Kunden",
+      "description": "Hast du Erfahrung mit der Installation von Glasfasern, sei es unterirdisch oder oberirdisch? Werde Teil unseres wachsenden internationalen Teams, das an FttH- und FttX-Projekten in ganz Europa arbeitet. Wir stellen komplette Teams ein: von Maschinenbedienern und Spleißtechnikern bis hin zu Technikern für Hausinstallationen.",
+      "responsibilities": [
+        "Bedienen von Grabungsmaschinen (Minibagger, Grabenfräsen, Saugbagger)",
+        "Manuelles Graben und Wiederherstellung von Straßen, Gehwegen und Bürgersteigen",
+        "Einblasen, Einziehen und Spleißen von Glasfasern mit OTDR und Fusionsspleißgeräten",
+        "Markieren und Navigieren unterirdischer Infrastruktur (Gas-, Wasser-, Stromleitungen)",
+        "Montieren von Glasfaserkabeln an Masten und Fassadenrouten",
+        "Installation von Verteilboxen und Endpunkten (DPs, ONTs)",
+        "Verlegen von Glasfaserkabeln durch Gebäudeeinführungen",
+        "Durchführen von Endinstallationen in Wohnungen und Unternehmen (FttH-Anschluss)",
+        "Fehlerbehebung, Signaltests und Aktivierung"
+      ],
+      "requirements": [
+        "Erfahrung mit FttH oder FttX (unterirdisch oder oberirdisch)",
+        "Zertifizierung in Glasfasertechnik von Vorteil",
+        "Sicherheitskenntnisse im Bereich Versorgungsleitungen und Straßenbau",
+        "Führerschein (Klasse B oder C/CE bevorzugt)",
+        "Grundkenntnisse in Englisch oder der lokalen Sprache für die Koordination vor Ort"
+      ],
+      "perks": [
+        "Langfristige freiberufliche Verträge mit wettbewerbsfähiger Bezahlung",
+        "Unterstützung bei Unterkunft und Transport",
+        "Einsätze in Projekten in Frankreich, den Niederlanden, Deutschland und weiteren Ländern",
+        "Wöchentliche Auszahlungen und schnelle Einarbeitung"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Saisonvertrag",
+      "title": "Landwirtschaftlicher Helfer – Saisonarbeit auf Bauernhof & im Gewächshaus",
+      "location": "Europa",
+      "salary": "1.400 € / Monat + Unterkunft gestellt",
+      "company": "GlobalHire Kunden",
+      "description": "Arbeitest du gerne in der Natur und hast kein Problem damit, dir die Hände schmutzig zu machen? GlobalHire sucht saisonale landwirtschaftliche Arbeitskräfte in ganz Europa zur Unterstützung von Bauernhöfen und Gewächshäusern während der Erntezeit. Egal ob erfahren oder motiviert – wir bieten flexible Stellen in der Obst- und Gemüseernte, Gewächshauspflege und Verpackung.",
+      "responsibilities": [
+        "Fähigkeit, lange Zeit zu stehen oder in gebückter Haltung zu arbeiten",
+        "Bereitschaft, im Freien oder bei Hitze im Gewächshaus zu arbeiten",
+        "Teamfähigkeit und Befolgen von Anweisungen",
+        "Verfügbarkeit für kurz- (4–12 Wochen) oder langfristige Einsätze",
+        "Erfahrung in der Landwirtschaft, an Verpackungslinien oder Pflanzenpflege (von Vorteil, aber nicht erforderlich)"
+      ],
+      "requirements": [
+        "Körperliche Fitness und Ausdauer für manuelle Arbeit",
+        "Bereitschaft zu Frühschichten, Wochenendarbeit und Überstunden während Erntezeiten",
+        "Flexibilität für saisonale Einsätze innerhalb Europas",
+        "Gültige Arbeitserlaubnis oder EU-Aufenthalt bevorzugt (Unterstützung für bestimmte Kandidaten möglich)",
+        "Grundlegende Kommunikationsfähigkeit in Englisch oder der Landessprache"
+      ],
+      "perks": [
+        "Bezahlte Saisonverträge mit garantierten Arbeitsstunden",
+        "Kostenlose oder vergünstigte Unterkunft in der Nähe des Einsatzortes",
+        "Wöchentliche Bezahlung mit möglichen Überstundenzuschlägen",
+        "Unterstützung bei Dokumenten, Einführung und Transport",
+        "Möglichkeit zur jährlichen Rückkehr für wiederkehrende Verträge"
+      ]
+    }
+  ],
+  "WORDS_FE": [
+    {
+      "id": "1",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Tự do",
+      "title": "Cáp Quang",
+      "location": "Châu Âu",
+      "salary": "Lên đến €10.000 / Tháng",
+      "company": "Khách hàng của GlobalHire",
+      "description": "Bạn có kinh nghiệm lắp đặt cáp quang dưới lòng đất hoặc trên không? Hãy tham gia vào đội ngũ quốc tế đang phát triển của chúng tôi trong các dự án triển khai FttH và FttX khắp châu Âu. Chúng tôi đang tuyển dụng đầy đủ các vị trí: từ thợ vận hành thiết bị hạng nặng, thợ nối cáp đến kỹ thuật viên lắp đặt tại nhà.",
+      "responsibilities": [
+        "Vận hành máy móc đào bới (máy xúc mini, máy đào rãnh, xe hút chân không)",
+        "Đào rãnh thủ công và phục hồi đường, vỉa hè",
+        "Thổi, kéo và nối cáp quang bằng OTDR và máy hàn quang",
+        "Đánh dấu và xác định hệ thống hạ tầng ngầm (đường ống gas, nước, điện)",
+        "Lắp đặt cáp quang lên cột và tường nhà",
+        "Lắp hộp phân phối và thiết bị đầu cuối (DPs, ONTs)",
+        "Kéo và dẫn cáp quang qua các lối vào tòa nhà",
+        "Thực hiện lắp đặt hoàn chỉnh tại nhà và doanh nghiệp (kết nối FttH)",
+        "Xử lý sự cố, kiểm tra tín hiệu và kích hoạt dịch vụ"
+      ],
+      "requirements": [
+        "Kinh nghiệm làm việc với FttH hoặc FttX (dưới lòng đất hoặc trên không)",
+        "Có chứng chỉ về cáp quang là một lợi thế",
+        "Kiến thức an toàn khi làm việc gần hạ tầng tiện ích và công trường",
+        "Bằng lái xe (ưu tiên hạng B hoặc C/CE)",
+        "Trình độ tiếng Anh cơ bản hoặc ngôn ngữ địa phương để giao tiếp tại công trường"
+      ],
+      "perks": [
+        "Hợp đồng tự do dài hạn với mức lương cạnh tranh",
+        "Hỗ trợ chỗ ở và phương tiện di chuyển",
+        "Được điều phối đến các dự án ở Pháp, Hà Lan, Đức và các nước khác",
+        "Thanh toán hàng tuần và quy trình nhận việc nhanh chóng"
+      ]
+    },
+    {
+      "id": "2",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Hợp đồng theo mùa vụ",
+      "title": "Công nhân nông nghiệp – Hỗ trợ trang trại & nhà kính theo mùa",
+      "location": "Châu Âu",
+      "salary": "€1400 / Tháng + Có chỗ ở",
+      "company": "Khách hàng của GlobalHire",
+      "description": "Bạn yêu thiên nhiên và không ngại làm việc tay chân? GlobalHire đang tuyển công nhân nông nghiệp thời vụ khắp châu Âu để hỗ trợ các trang trại và nhà kính trong mùa thu hoạch cao điểm. Dù bạn có kinh nghiệm hay chỉ đơn giản là muốn làm việc, chúng tôi có các vị trí linh hoạt trong việc hái trái cây & rau củ, bảo trì nhà kính và đóng gói.",
+      "responsibilities": [
+        "Có thể làm việc trong thời gian dài đứng hoặc ngồi xổm",
+        "Sẵn sàng làm việc ngoài trời hoặc trong nhà kính nóng",
+        "Biết tuân theo hướng dẫn và làm việc nhóm",
+        "Sẵn sàng làm việc ngắn hạn (4–12 tuần) hoặc dài hạn",
+        "Có kinh nghiệm làm nông, làm việc trên dây chuyền đóng gói, hoặc chăm sóc cây trồng (là lợi thế nhưng không bắt buộc)"
+      ],
+      "requirements": [
+        "Thể lực và sức bền để làm việc tay chân",
+        "Có thể làm việc sáng sớm, cuối tuần và tăng ca trong mùa vụ",
+        "Sẵn sàng di chuyển theo mùa trong phạm vi châu Âu",
+        "Ưu tiên có giấy phép lao động hợp lệ hoặc cư trú tại EU (có hỗ trợ cho một số ứng viên)",
+        "Kỹ năng giao tiếp cơ bản bằng tiếng Anh hoặc ngôn ngữ địa phương"
+      ],
+      "perks": [
+        "Hợp đồng theo mùa có lương cố định và giờ làm đảm bảo",
+        "Miễn phí hoặc hỗ trợ chi phí chỗ ở gần nơi làm việc",
+        "Thanh toán lương hàng tuần và thưởng tăng ca tùy chọn",
+        "Hỗ trợ về giấy tờ, hướng dẫn và phương tiện đi lại",
+        "Cơ hội trở lại làm việc hàng năm với hợp đồng định kỳ"
+      ]
+    }
+  ]  
+  
+}

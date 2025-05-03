@@ -6,6 +6,12 @@
       const savedLang = localStorage.getItem('lang') || 'EN';
       loadsLanguage(savedLang);
     });
+  fetch('./assets/json/jobs.json')
+    .then((response) => response.json())
+    .then((jobs) => {
+      window.JOB_DATA = jobs;
+      renderJobContent()
+    });
   function loadsLanguage(lang) {
     localStorage.setItem('lang', lang);
     $('#country_select').val(lang);
@@ -20,7 +26,8 @@
     }
     $('[data-placeholder-key]').each(function () {
       const placeholderKey = $(this).data('placeholder-key');
-      const placeholderText = window.LANGUAGE_DATA['WORDS_' + lang]['placeholders'][placeholderKey];
+      const placeholderText =
+        window.LANGUAGE_DATA['WORDS_' + lang]['placeholders'][placeholderKey];
       $(this).attr('placeholder', placeholderText);
     });
     /*fills all tags with class=lang pattern*/
@@ -30,36 +37,142 @@
       let Text = window.LANGUAGE_DATA['WORDS_' + lang][page][key];
       $(this).text(Text);
     });
+    renderJobContent();
+  }
+  function renderJobContent() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const jobId = urlParams.get('jobId');
+    const pathname = window.location.pathname;
+
+    const savedLang = localStorage.getItem('lang') || 'EN';
+    if (pathname.includes('job-post')) {
+      const jobListContainer = document.getElementById('job-list');
+      const jobList = window.JOB_DATA['WORDS_' + savedLang];
+      console.log(jobList);
+      jobListContainer.innerHTML = ''
+      jobList.forEach((job) => {
+        const jobCard = `
+            <div class="col-lg-4 col-md-6">
+              <div class="job-post-box">
+                <p class="tag">${job.tag}</p>
+                <div class="job-owners-area">
+                  <div class="image">
+                    <img src="${job.image}" alt="${job.title}" />
+                  </div>
+                  <div class="text">
+                    <a href="#">${job.company}</a>
+                    <p>${job.location}</p>
+                  </div>
+                </div>
+                <div class="divider"></div>
+                <div class="work-info">
+                  <h5>${job.title}</h5>
+                  <h6>${job.salary}</h6>
+                </div>
+                <div class="button">
+                  <a class="job-learn" href="job-details.html?jobId=${job.id}" lang="lang-job-view_detail">
+                    View Details <span><i class="fa-solid fa-arrow-right"></i></span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          `;
+        // Append the job card to the container
+        jobListContainer.innerHTML += jobCard;
+      });
+    }
+    // Find the job with the matching ID
+    if (pathname.includes('job-details')) {
+      const job = window.JOB_DATA['WORDS_' + savedLang].find(
+        (job) => job.id === jobId
+      );
+      if (job) {
+        // Populate the page with job data
+        document.querySelector('.main-heading h1').textContent = job.title;
+        document.querySelector('.tags-area .tag').textContent = job.tag;
+        document.querySelector('.tags-area .salary').textContent = job.salary;
+        document.querySelector('.tags-area .address').textContent =
+          job.location;
+        document.querySelector('.job-description').textContent =
+          job.description;
+
+        // Populate responsibilities
+        const responsibilitiesList = document.querySelector(
+          '.job-details-responsibilities ul'
+        );
+        responsibilitiesList.innerHTML = job.responsibilities
+          .map(
+            (item) =>
+              `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
+          )
+          .join('');
+
+        // Populate requirements
+        const requirementsList = document.querySelector(
+          '.job-details-requirements ul'
+        );
+        requirementsList.innerHTML = job.requirements
+          .map(
+            (item) =>
+              `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
+          )
+          .join('');
+
+        // Populate perks
+        const perksList = document.querySelector('.job-details-benefits ul');
+        perksList.innerHTML = job.perks
+          .map(
+            (item) =>
+              `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
+          )
+          .join('');
+      } else {
+        // Handle case where jobId is not found
+        document.querySelector('.main-heading h1').textContent =
+          'Job Not Found';
+      }
+    }
+    if (!jobId && pathname.includes('job-details')) {
+      console.log('vao');
+      // Handle case where jobId is missing
+      document.querySelector('.main-heading h1').textContent =
+        'No Job Selected';
+    }
   }
   emailjs.init('zzWmcxOnIDk3EoPkJ');
   $(document).ready(function () {
-    const form = document.getElementById('contact-form') || document.getElementById('subscribe-form');
+    const form =
+      document.getElementById('contact-form') ||
+      document.getElementById('subscribe-form');
     form?.addEventListener('submit', function (event) {
-        event.preventDefault();
-        const submitButton = this.querySelector('#submit-button');
+      event.preventDefault();
+      const submitButton = this.querySelector('#submit-button');
 
-        submitButton.disabled = true;
-        submitButton.innerHTML = 'Submitting... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
-        // these IDs from the previous steps
-        emailjs.sendForm('service_86lo5hw', 'template_rb8f669', this).then(
-          () => {
-            console.log('SUCCESS!');
-            const popup = document.getElementById('success-popup');
-            popup.classList.remove('hidden');
-    
-            // Close the pop-up when the close button is clicked
-            document.getElementById('close-popup').addEventListener('click', () => {
+      submitButton.disabled = true;
+      submitButton.innerHTML =
+        'Submitting... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>';
+      // these IDs from the previous steps
+      emailjs.sendForm('service_86lo5hw', 'template_rb8f669', this).then(
+        () => {
+          console.log('SUCCESS!');
+          const popup = document.getElementById('success-popup');
+          popup.classList.remove('hidden');
+
+          // Close the pop-up when the close button is clicked
+          document
+            .getElementById('close-popup')
+            .addEventListener('click', () => {
               popup.classList.add('hidden');
             });
-            this.reset();
-            submitButton.disabled = false;
-            submitButton.innerHTML = 'Submit Now';
-          },
-          (error) => {
-            console.log('FAILED...', error);
-          }
-        );
-      });
+          this.reset();
+          submitButton.disabled = false;
+          submitButton.innerHTML = 'Submit Now';
+        },
+        (error) => {
+          console.log('FAILED...', error);
+        }
+      );
+    });
     var $dropdown = $('#country_select');
 
     // Initialize the language loader with the default language
