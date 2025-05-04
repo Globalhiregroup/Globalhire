@@ -22,7 +22,7 @@
       $('#nl-address').removeClass('hidden');
     } else {
       $('#vn-address').removeClass('hidden');
-      $('#nl-address').addClass('hidden');
+      // $('#nl-address').addClass('hidden');
     }
     $('[data-placeholder-key]').each(function () {
       const placeholderKey = $(this).data('placeholder-key');
