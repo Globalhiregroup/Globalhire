@@ -118,6 +118,15 @@
           )
           .join('');
 
+          const niceToHave = document.querySelector(
+            '.job-details-nice-to-have ul'
+          );
+          niceToHave.innerHTML = job.nice_to_have
+            .map(
+              (item) =>
+                `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
+            )
+            .join('');
         // Populate perks
         const perksList = document.querySelector('.job-details-benefits ul');
         perksList.innerHTML = job.perks
@@ -126,6 +135,14 @@
               `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
           )
           .join('');
+          // process
+          const processList = document.querySelector('.job-details-process ul');
+          processList.innerHTML = job.process
+            .map(
+              (item) =>
+                `<li><span><i class="fa-solid fa-check"></i></span> ${item}</li>`
+            )
+            .join('');
       } else {
         // Handle case where jobId is not found
         document.querySelector('.main-heading h1').textContent =

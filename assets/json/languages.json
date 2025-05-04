@@ -87,7 +87,7 @@
       "intro_description_5": "We handle all the regulatory details, so you can focus on getting your projects done.",
       "conclusion": "With our knack for finding great IT talent, we help spark your digital goals—whether that’s remote, hybrid, on-site, or through our awesome hires.",
 
-      "it_title": "IT Professionals Talent Solutions",
+      "it_title": "IT Professionals",
       "it_subtitle": "Build and Scale with International Tech Talent — Fully Managed by GlobalHire",
       "it_description": "GlobalHire connects companies across Europe with highly skilled IT professionals from Asia and beyond. We provide access to vetted, motivated developers and engineers who can be deployed remotely or on-site for project-based, freelance, or long-term assignments.",
       "it_description2": "Our clients range from tech startups to enterprise-level software teams looking to scale without the overhead of traditional hiring. Whether you need one fullstack developer or an entire offshore team, GlobalHire ensures fast, compliant, and fully supported placements.",
@@ -145,7 +145,7 @@
       "it_region_5": "Nordic countries",
       "it_region_6": "UK & Ireland (on request)",
 
-      "hospitality_title": "Hospitality Talent Solutions",
+      "hospitality_title": "Horeca",
       "hospitality_subtitle": "Reliable, Skilled Staff for Europe’s Hotels, Restaurants, and Resorts",
       "hospitality_description": "GlobalHire connects hospitality businesses with experienced international professionals to meet growing demand across Europe’s food and service sectors. From seasonal staff to permanent placements, we provide vetted, adaptable talent that keeps your operations running at full speed — even in peak periods.",
       "hospitality_description2": "We handle everything from recruitment and onboarding to housing and relocation, allowing your team to focus on guest experience while we handle staffing logistics.",
@@ -200,7 +200,7 @@
 
       "hospitality_network_description": "Our network includes talent from Vietnam, Indonesia, the Philippines, and Eastern Europe — with staff fluent in English, and optionally trained in German, Dutch, or French hospitality standards.",
 
-      "construction_title": "Construction Talent Solutions",
+      "construction_title": "Construction",
       "construction_subtitle": "Flexible, Skilled Workforce for European Building Projects",
       "construction_description": "GlobalHire provides international staffing solutions for the construction industry across Europe. We support contractors, infrastructure developers, and industrial builders with skilled, mobile professionals — ready to work on-site under your direction, without the burden of traditional recruitment.",
       "construction_description2": "Our teams can be deployed for short-term projects or long-term workforce needs. Whether you need 5 formworkers or 50 general laborers, GlobalHire delivers vetted, hard-working professionals with the right skills and documentation in place.",
@@ -277,7 +277,7 @@
       "agriculture_service_title_2": "Reliable and Hardworking Personnel",
       "agriculture_service_description_2": "Our commitment to quality means you can trust us to deliver reliable and hardworking personnel who meet your agricultural needs.",
 
-      "fiber_title": "Fiber Optic Engineering Talent Solutions",
+      "fiber_title": "Fiber Optic",
       "fiber_subtitle": "Connecting Your Projects with the Right Talent – Across Europe",
       "fiber_description": "GlobalHire provides international staffing solutions for fiber optic deployment projects across Europe. We work with telecom operators, infrastructure firms, and main contractors to deliver skilled professionals — from trenching crews to final-mile installers — enabling you to scale operations without expanding your internal workforce.",
       "fiber_description2": "We are not a subcontractor. We are a talent partner — providing certified specialists, technical coordinators, and fully equipped international crews to support your FttH and FttX network rollouts.",
@@ -369,7 +369,9 @@
       "freelance": "Freelance",
       "full_time": "Full Time",
       "part_time": "Part Time",
-      "internship": "Internship"
+      "internship": "Internship",
+      "nice_to_have": "Nice to have",
+      "process": "Application process"
     },
     "footer": {
       "title": "Our goal is to demystify the process, address your concerns, and empower you with the knowledge to embark.",
@@ -458,7 +460,7 @@
       "intro_description_5": "Wij regelen alle regelgevende details, zodat u zich kunt concentreren op het afronden van uw projecten.",
       "conclusion": "Met onze gave om geweldige IT-talenten te vinden, helpen we uw digitale doelen te stimuleren — of dat nu op afstand, hybride, op locatie is of via onze fantastische aanwervingen.",
 
-      "it_title": "IT Professionals Talentoplossingen",
+      "it_title": "IT Professionals",
       "it_subtitle": "Bouw en Schaal met Internationaal Tech Talent — Volledig Beheerd door GlobalHire",
       "it_description": "GlobalHire verbindt bedrijven in heel Europa met hooggekwalificeerde IT-professionals uit Azië en daarbuiten. Wij bieden toegang tot gescreende, gemotiveerde ontwikkelaars en ingenieurs die op afstand of op locatie kunnen worden ingezet voor projectmatige, freelance of langdurige opdrachten.",
       "it_description2": "Onze klanten variëren van tech startups tot enterprise-level softwareteams die willen schalen zonder de overhead van traditioneel werven. Of u nu één fullstack-ontwikkelaar of een volledig offshore team nodig heeft, GlobalHire zorgt voor snelle, conforme en volledig ondersteunde plaatsingen.",
@@ -516,7 +518,7 @@
       "it_region_5": "Noordse landen",
       "it_region_6": "VK & Ierland (op aanvraag)",
 
-      "hospitality_title": "Horeca Talentoplossingen",
+      "hospitality_title": "Horeca",
       "hospitality_subtitle": "Betrouwbaar, Bekwaam Personeel voor Europese Hotels, Restaurants en Resorts",
       "hospitality_description": "GlobalHire verbindt horecabedrijven met ervaren internationale professionals om te voldoen aan de groeiende vraag in de Europese voedsel- en service sectoren. Van seizoenspersoneel tot permanente plaatsingen, wij leveren gescreende, flexibele talenten die uw activiteiten op volle snelheid draaiende houden — zelfs in piekperiodes.",
       "hospitality_description2": "Wij regelen alles, van werving en onboarding tot huisvesting en relocatie, zodat uw team zich kan richten op de gastervaring terwijl wij de personeelslogistiek afhandelen.",
@@ -571,7 +573,7 @@
 
       "hospitality_network_description": "Ons netwerk omvat talent uit Vietnam, Indonesië, de Filipijnen en Oost-Europa — met personeel dat vloeiend Engels spreekt en optioneel getraind is in Duitse, Nederlandse of Franse horecastandaarden.",
 
-      "construction_title": "Bouw Talentoplossingen",
+      "construction_title": "Bouw",
       "construction_subtitle": "Flexibele, Bekwame Arbeidskrachten voor Europese Bouwprojecten",
       "construction_description": "GlobalHire biedt internationale personeelsoplossingen voor de bouwsector in heel Europa. Wij ondersteunen aannemers, infrastructuurontwikkelaars en industriële bouwers met bekwame, mobiele professionals — klaar om ter plaatse onder uw leiding te werken, zonder de last van traditionele werving.",
       "construction_description2": "Onze teams kunnen worden ingezet voor kortlopende projecten of langdurige personeelsbehoeften. Of u nu 5 bekistingwerkers of 50 algemene arbeiders nodig heeft, GlobalHire levert gescreende, hardwerkende professionals met de juiste vaardigheden en documentatie.",
@@ -650,7 +652,7 @@
       "agriculture_service_title_2": "Betrouwbaar en Hardwerkend Personeel",
       "agriculture_service_description_2": "Onze toewijding aan kwaliteit betekent dat u op ons kunt vertrouwen om betrouwbaar en hardwerkend personeel te leveren dat voldoet aan uw landbouwbehoeften.",
 
-      "fiber_title": "Glasvezel Engineering Talentoplossingen",
+      "fiber_title": "Glasvezel Engineering",
       "fiber_subtitle": "Uw Projecten Verbinden met het Juiste Talent — Door Heel Europa",
       "fiber_description": "GlobalHire biedt internationale personeelsoplossingen voor glasvezeluitrolprojecten in heel Europa. Wij werken met telecomoperators, infrastructuurbedrijven en hoofdaannemers om bekwame professionals te leveren — van sleuventeams tot installateurs van de laatste mijl — zodat u uw activiteiten kunt schalen zonder uw interne personeelsbestand uit te breiden.",
       "fiber_description2": "Wij zijn geen onderaannemer. Wij zijn een talentpartner — die gecertificeerde specialisten, technische coördinatoren en volledig uitgeruste internationale crews levert om uw FttH- en FttX-netwerkuitrol te ondersteunen.",
@@ -742,7 +744,9 @@
       "freelance": "Freelance",
       "full_time": "Voltijds",
       "part_time": "Deeltijds",
-      "internship": "Stage"
+      "internship": "Stage",
+      "nice_to_have": "Prettig om te hebben",
+      "process": "Aanvraagproces"
     },
     "footer": {
       "title": "We maken het proces helder, nemen uw twijfels weg en geven u de handvatten om direct aan de slag te gaan.",
@@ -831,7 +835,7 @@
       "intro_description_5": "Wir kümmern uns um alle regulatorischen Details, damit Sie sich auf die Durchführung Ihrer Projekte konzentrieren können.",
       "conclusion": "Mit unserem Talent für die Suche nach großartigen IT-Talenten helfen wir, Ihre digitalen Ziele zu entfachen — sei es remote, hybrid, vor Ort oder durch unsere großartigen Neueinstellungen.",
 
-      "it_title": "IT-Professionals Talentlösungen",
+      "it_title": "IT-Professionals",
       "it_subtitle": "Aufbau und Skalierung mit internationalem Tech-Talent — vollständig verwaltet von GlobalHire",
       "it_description": "GlobalHire verbindet Unternehmen in ganz Europa mit hochqualifizierten IT-Fachkräften aus Asien und darüber hinaus. Wir bieten Zugang zu geprüften, motivierten Entwicklern und Ingenieuren, die remote oder vor Ort für projektbezogene, freiberufliche oder langfristige Aufgaben eingesetzt werden können.",
       "it_description2": "Unsere Kunden reichen von Tech-Startups bis hin zu Softwareteams auf Unternehmensebene, die skalieren möchten, ohne den Overhead traditioneller Einstellungen. Ob Sie einen Fullstack-Entwickler oder ein gesamtes Offshore-Team benötigen, GlobalHire sorgt für schnelle, konforme und vollständig unterstützte Platzierungen.",
@@ -889,7 +893,7 @@
       "it_region_5": "Nordische Länder",
       "it_region_6": "Großbritannien & Irland (auf Anfrage)",
 
-      "hospitality_title": "Gastronomie-Talentlösungen",
+      "hospitality_title": "Gastronomie",
       "hospitality_subtitle": "Zuverlässiges, qualifiziertes Personal für Europas Hotels, Restaurants und Resorts",
       "hospitality_description": "GlobalHire verbindet Gastronomiebetriebe mit erfahrenen internationalen Fachkräften, um der wachsenden Nachfrage in den europäischen Lebensmittel- und Dienstleistungssektoren gerecht zu werden. Von Saisonkräften bis hin zu festen Anstellungen liefern wir geprüfte, anpassungsfähige Talente, die Ihre Abläufe auch in Spitzenzeiten auf Hochtouren halten.",
       "hospitality_description2": "Wir kümmern uns um alles, von der Rekrutierung und dem Onboarding bis hin zur Unterbringung und Umsiedlung, damit sich Ihr Team auf das Gästeerlebnis konzentrieren kann, während wir die Personallogistik übernehmen.",
@@ -1023,7 +1027,7 @@
       "agriculture_service_title_2": "Zuverlässiges und hart arbeitendes Personal",
       "agriculture_service_description_2": "Unser Engagement für Qualität bedeutet, dass Sie uns vertrauen können, zuverlässiges und hart arbeitendes Personal zu liefern, das Ihren landwirtschaftlichen Bedürfnissen entspricht.",
 
-      "fiber_title": "Glasfaser-Engineering Talentlösungen",
+      "fiber_title": "Glasfaser-Engineering",
       "fiber_subtitle": "Verbindung Ihrer Projekte mit dem richtigen Talent — in ganz Europa",
       "fiber_description": "GlobalHire bietet internationale Personallösungen für Glasfaserbereitstellungsprojekte in ganz Europa. Wir arbeiten mit Telekommunikationsbetreibern, Infrastrukturunternehmen und Hauptauftragnehmern zusammen, um qualifizierte Fachkräfte zu liefern — von Grabenteams bis hin zu Installateuren der letzten Meile —, die es Ihnen ermöglichen, Ihre Abläufe zu skalieren, ohne Ihr internes Personal zu erweitern.",
       "fiber_description2": "Wir sind kein Subunternehmer. Wir sind ein Talentpartner — wir stellen zertifizierte Spezialisten, technische Koordinatoren und vollständig ausgestattete internationale Teams bereit, um Ihre FttH- und FttX-Netzwerkrollouts zu unterstützen.",
@@ -1115,7 +1119,9 @@
       "freelance": "Freiberuflich",
       "full_time": "Vollzeit",
       "part_time": "Teilzeit",
-      "internship": "Praktikum"
+      "internship": "Praktikum",
+      "nice_to_have": "Schön zu haben",
+      "process": "Bewerbungsprozess"
     },
     "footer": {
       "title": "Unser Ziel ist es, den Prozess zu entmystifizieren, Ihre Bedenken auszuräumen und Sie mit dem Wissen auszustatten, um zu starten.",
@@ -1211,7 +1217,7 @@
       "intro_description_5": "Chúng tôi xử lý tất cả các chi tiết quy định, để bạn có thể tập trung vào việc hoàn thành dự án của mình.",
       "conclusion": "Với khả năng tìm kiếm tài năng IT xuất sắc, chúng tôi giúp khơi dậy mục tiêu số hóa của bạn — dù là làm việc từ xa, kết hợp, tại chỗ hay thông qua các nhân sự tuyệt vời của chúng tôi.",
 
-      "it_title": "Giải pháp tài năng chuyên gia IT",
+      "it_title": "Chuyên gia IT",
       "it_subtitle": "Xây dựng và mở rộng với tài năng công nghệ quốc tế — Được quản lý hoàn toàn bởi GlobalHire",
       "it_description": "GlobalHire kết nối các công ty trên khắp châu Âu với các chuyên gia IT có kỹ năng cao từ châu Á và xa hơn. Chúng tôi cung cấp quyền truy cập vào các nhà phát triển và kỹ sư được kiểm tra, có động lực, có thể được triển khai từ xa hoặc tại chỗ cho các dự án ngắn hạn, tự do hoặc dài hạn.",
       "it_description2": "Khách hàng của chúng tôi bao gồm từ các startup công nghệ đến các đội ngũ phần mềm cấp doanh nghiệp muốn mở rộng mà không phải chịu gánh nặng của việc tuyển dụng truyền thống. Dù bạn cần một nhà phát triển fullstack hay một đội ngũ offshore, GlobalHire đảm bảo việc bố trí nhanh chóng, tuân thủ và được hỗ trợ đầy đủ.",
@@ -1269,7 +1275,7 @@
       "it_region_5": "Các nước Bắc Âu",
       "it_region_6": "Anh & Ireland (theo yêu cầu)",
 
-      "hospitality_title": "Giải pháp tài năng ngành khách sạn",
+      "hospitality_title": "Ngành khách sạn",
       "hospitality_subtitle": "Nhân sự đáng tin cậy, có kỹ năng cho các khách sạn, nhà hàng và khu nghỉ dưỡng ở châu Âu",
       "hospitality_description": "GlobalHire kết nối các doanh nghiệp khách sạn với các chuyên gia quốc tế giàu kinh nghiệm để đáp ứng nhu cầu ngày càng tăng trong lĩnh vực thực phẩm và dịch vụ của châu Âu. Từ nhân viên thời vụ đến vị trí lâu dài, chúng tôi cung cấp nhân sự được kiểm tra, thích nghi nhanh, giúp hoạt động của bạn luôn ở tốc độ tối đa — ngay cả trong mùa cao điểm.",
       "hospitality_description2": "Chúng tôi xử lý mọi thứ từ tuyển dụng và onboarding đến nhà ở và di dời, cho phép đội ngũ của bạn tập trung vào trải nghiệm khách hàng trong khi chúng tôi lo liệu hậu cần nhân sự.",
@@ -1324,7 +1330,7 @@
 
       "hospitality_network_description": "Mạng lưới của chúng tôi bao gồm tài năng từ Việt Nam, Indonesia, Philippines và Đông Âu — với nhân viên thông thạo tiếng Anh, và tùy chọn được đào tạo theo tiêu chuẩn khách sạn Đức, Hà Lan hoặc Pháp.",
 
-      "construction_title": "Giải pháp tài năng ngành xây dựng",
+      "construction_title": "Ngành xây dựng",
       "construction_subtitle": "Lực lượng lao động linh hoạt, có kỹ năng cho các dự án xây dựng châu Âu",
       "construction_description": "GlobalHire cung cấp giải pháp nhân sự quốc tế cho ngành xây dựng trên khắp châu Âu. Chúng tôi hỗ trợ các nhà thầu, nhà phát triển cơ sở hạ tầng và các nhà xây dựng công nghiệp với các chuyên gia lành nghề, di động — sẵn sàng làm việc tại chỗ theo hướng dẫn của bạn, mà không phải chịu gánh nặng của việc tuyển dụng truyền thống.",
       "construction_description2": "Các đội ngũ của chúng tôi có thể được triển khai cho các dự án ngắn hạn hoặc nhu cầu lực lượng lao động dài hạn. Dù bạn cần 5 công nhân đổ bê tông hay 50 lao động phổ thông, GlobalHire cung cấp các chuyên gia được kiểm tra, chăm chỉ với kỹ năng và giấy tờ phù hợp.",
@@ -1403,7 +1409,7 @@
       "agriculture_service_title_2": "Nhân sự đáng tin cậy và chăm chỉ",
       "agriculture_service_description_2": "Cam kết của chúng tôi về chất lượng có nghĩa là bạn có thể tin tưởng chúng tôi cung cấp nhân sự đáng tin cậy và chăm chỉ đáp ứng nhu cầu nông nghiệp của bạn.",
 
-      "fiber_title": "Giải pháp tài năng kỹ thuật cáp quang",
+      "fiber_title": "kỹ thuật cáp quang",
       "fiber_subtitle": "Kết nối dự án của bạn với đúng tài năng — Trên khắp châu Âu",
       "fiber_description": "GlobalHire cung cấp giải pháp nhân sự quốc tế cho các dự án triển khai cáp quang trên khắp châu Âu. Chúng tôi làm việc với các nhà khai thác viễn thông, công ty cơ sở hạ tầng và nhà thầu chính để cung cấp các chuyên gia lành nghề — từ đội đào rãnh đến nhân viên lắp đặt cuối cùng — giúp bạn mở rộng hoạt động mà không cần mở rộng lực lượng lao động nội bộ.",
       "fiber_description2": "Chúng tôi không phải là nhà thầu phụ. Chúng tôi là đối tác tài năng — cung cấp các chuyên gia được chứng nhận, điều phối viên kỹ thuật và các đội quốc tế được trang bị đầy đủ để hỗ trợ triển khai mạng FttH và FttX của bạn.",
@@ -1495,7 +1501,9 @@
       "freelance": "Làm tự do",
       "full_time": "Toàn thời gian",
       "part_time": "Bán thời gian",
-      "internship": "Thực tập"
+      "internship": "Thực tập",
+      "nice_to_have": "Có lợi",
+      "process": "Quy trình"
     },
     "footer": {
       "title": "Mục tiêu của chúng tôi là đơn giản hóa quy trình, giải đáp thắc mắc và cung cấp cho bạn kiến thức cần thiết để bắt đầu.",

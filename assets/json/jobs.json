@@ -64,7 +64,341 @@
         "Support with documents, orientation, and transport",
         "Opportunity to return annually for recurring contracts"
       ]
+    },
+    {
+      "id": "3",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Network Engineer",
+      "location": "Europe",
+      "salary": "Up-to €10.000 / Month",
+      "company": "GlobalHire Clients",
+      "description": "Join a growing international team deploying next-generation fiber optic infrastructure across Europe. As a Fiber Optic Network Engineer, you will take ownership of the design, documentation, and technical planning of fiber networks for residential, commercial, and industrial areas. Your role will focus on translating high-level project needs into workable, scalable network designs that guide field teams toward successful implementation.",
+      "responsibilities": [
+        "Design and document fiber optic network architecture (FTTH, FTTB, FTTC)",
+        "Prepare and review network layouts, splice diagrams, and route schematics.",
+        "Coordinate site surveys and assess technical feasibility",
+        "Collaborate with project managers, civil teams, and field supervisors",
+        "Update and revise designs throughout build phases",
+        "Ensure technical compliance with customer and regulatory standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in fiber network design or telecom engineering",
+        "Proficiency in AutoCAD, QGIS, Visio, or similar design tools",
+        "Knowledge of network topologies including GPON and active Ethernet",
+        "Ability to produce and interpret technical documentation",
+        "Excellent communication in English (written and spoken)",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with international rollout or multi-region projects",
+        "Familiarity with GIS tools or fiber design platforms",
+        "Certifications such as FOA CFND, FTTH Council Europe, or equivalent"
+      ],
+      "perks": [
+        "Monthly salary based on experience and qualifications",
+        "Long-term projects with stable work volume",
+        "Accommodation and transport provided for cross-border workers",
+        "Insurance, relocation support, and onboarding included",
+        "Work with Tier-1 telecom operators across Europe",
+        "Tools, PPE, and technical onboarding fully arranged"
+      ],
+      "process": [
+        "1st Round: Technical screening by GlobalHire engineering team",
+        "2nd Round: Interview with client-side technical coordinator",
+        "Optional: Portfolio or sample design review"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Underground Fiber Technician",
+      "location": "Europe",
+      "salary": "Fixed monthly salary based on skill and experience",
+      "company": "GlobalHire Clients",
+      "description": "As part of our expanding European operations, GlobalHire is hiring skilled Underground Fiber Technicians to support the physical installation of fiber optic networks across various terrains. You will work on the ground level of telecom infrastructure deployment, executing trenching, ducting, and cable installation work for fiber rollout projects in residential and commercial zones. This is a hands-on, field-based role suitable for candidates with civil or utility installation experience.",
+      "responsibilities": [
+        "Perform excavation, trenching, and backfilling for underground cable routes",
+        "Install ducts, microducts, and fiber optic cables according to design specifications",
+        "Operate basic civil machinery (e.g. mini-excavators, trenchers) where certified",
+        "Pull, blow, or lay fiber cables into pre-installed ducts",
+        "Assist splicing teams by preparing cables for handover",
+        "Follow site safety standards and ensure worksite cleanliness",
+        "Document daily progress and report to site supervisor"
+      ],
+      "requirements": [
+        "Previous experience in civil, construction, or utility installation work",
+        "Familiarity with trenching, ducting, or cable pulling techniques",
+        "Basic knowledge of fiber optic infrastructure is a strong advantage",
+        "Physical fitness and willingness to work outdoors in various conditions",
+        "Ability to follow instructions and read basic site plans",
+        "Basic English or local language for team coordination",
+        "Valid EU driving license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with fiber optic projects or telecom construction sites",
+        "Mini-excavator or machinery operation certification",
+        "VCA / SCC or equivalent safety training",
+        "Experience working in multinational teams"
+      ],
+      "perks": [
+        "Fixed monthly salary based on skill and experience",
+        "Long-term contracts with consistent workload",
+        "Accommodation, transport, and PPE provided for international hires",
+        "Paid training and onboarding where needed",
+        "Career progression opportunities within large-scale infrastructure projects",
+        "Support with documentation, relocation, and registration in host country"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire civil deployment team",
+        "2nd Round: Interview with local project site coordinator",
+        "Optional: Practical skills test or reference check"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Splicing Technician",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on skill and certifications",
+      "company": "GlobalHire Clients",
+      "description": "We are looking for experienced Fiber Optic Splicing Technicians to join our telecom rollout teams across Europe. In this technical role, you will be responsible for connecting, testing, and certifying fiber optic cables using fusion splicing techniques. You will ensure high-performance network continuity by executing precise work according to strict quality standards and project timelines.",
+      "responsibilities": [
+        "Perform fiber splicing using fusion splicing equipment (Fujikura, Sumitomo, etc.)",
+        "Install and manage splice closures, patch panels, and distribution boxes",
+        "Conduct signal and continuity tests using OTDR, power meters, and VFL",
+        "Read and interpret fiber documentation such as splice plans and schematics",
+        "Label, trace, and document all splice and test points",
+        "Troubleshoot faults and perform corrective splicing when needed",
+        "Ensure cleanliness, precision, and quality control on all terminations",
+        "Work closely with installation and design teams during network activation"
+      ],
+      "requirements": [
+        "Minimum 2 years of hands-on experience in fiber splicing",
+        "Proficient in using OTDR, LSPM, and fusion splicing tools",
+        "Ability to read fiber plans and update as-built documentation",
+        "Strong focus on precision, quality, and clean cable management",
+        "Fluent in English or ability to communicate clearly with team",
+        "Valid EU driver’s license (B)",
+        "Willingness to travel or stay on location as required"
+      ],
+      "nice_to_have": [
+        "FOA CFOT, ETA certification, or similar",
+        "Experience working on FTTH or backbone projects",
+        "Familiarity with various splice tray and closure types",
+        "Previous experience in cross-border telecom work"
+      ],
+      "perks": [
+        "Competitive monthly salary based on skill and certifications",
+        "Long-term contracts and stable work environments",
+        "Accommodation, tools, and company vehicle (for mobile teams)",
+        "Paid travel expenses and per diem allowance",
+        "Opportunities to advance into QA or supervisory roles",
+        "Support with relocation and onboarding for international hires"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordinator",
+        "2nd Round: Client-side test or technical validation",
+        "Optional: Submission of sample splice report or certification"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Site Supervisor",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on seniority and experience",
+      "company": "GlobalHire Clients",
+      "description": "We are seeking experienced Fiber Site Supervisors to oversee day-to-day activities on fiber optic deployment projects across Europe. In this role, you will manage teams of technicians, coordinate on-site tasks, and ensure safe, timely, and high-quality delivery of network infrastructure. You will act as the key link between field operations and project management, ensuring work is performed according to plan, standard, and schedule.",
+      "responsibilities": [
+        "Supervise on-site fiber installation, civil works, and splicing activities",
+        "Coordinate work schedules, teams, and equipment on daily basis",
+        "Perform quality checks and site inspections during all stages of the build",
+        "Resolve field-level issues and escalate technical concerns when needed",
+        "Monitor adherence to health and safety guidelines (toolbox talks, PPE, etc.)",
+        "Maintain daily logs, material usage, and progress reports",
+        "Liaise with clients, subcontractors, and engineering teams",
+        "Ensure handover documentation and as-built updates are properly completed"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in telecom or civil site supervision",
+        "Proven leadership experience managing fiber or utility teams",
+        "Strong understanding of FTTH/FTTX deployments and workflows",
+        "Ability to read network diagrams, fiber maps, and work permits",
+        "Strong problem-solving and people management skills",
+        "Basic digital reporting and email communication skills",
+        "Fluent in English; other European languages are a plus",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "VCA / SCC or equivalent site safety certification",
+        "Experience working in international or multicultural teams",
+        "Familiarity with quality control and field inspection tools",
+        "Background in either splicing or civil engineering is an advantage"
+      ],
+      "perks": [
+        "Competitive monthly salary based on seniority and experience",
+        "Long-term or project-based contracts available",
+        "Accommodation, transport, and company phone provided",
+        "Daily allowance or overtime pay depending on project setup",
+        "Onboarding support, safety training, and leadership development",
+        "Opportunities for advancement to regional or multi-site coordination roles"
+      ],
+      "process": [
+        "1st Round: Screening by GlobalHire field operations team",
+        "2nd Round: Client-side technical and leadership interview",
+        "Optional: Reference check and safety documentation review"
+      ]
+    },
+    {
+      "id": "7",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Work Planner (Civil Work Preparator)",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on experience",
+      "company": "GlobalHire Clients",
+      "description": "We are recruiting Fiber Work Planners to support the preparation and coordination of civil works for fiber optic deployment projects across Europe. In this role, you will be responsible for translating high-level project scopes into executable field instructions. Your focus will be on aligning engineering designs, permits, and local requirements into well-prepared construction packages for teams on the ground.",
+      "responsibilities": [
+        "Translate network designs into field-ready work packages",
+        "Analyze site conditions, survey results, and permit requirements",
+        "Coordinate with local authorities, utility companies, and subcontractors",
+        "Plan trench routes, duct placements, and point-of-entry logistics",
+        "Ensure buildability of routes and identify conflicts in advance",
+        "Prepare detailed documentation for technicians, including maps, materials, and timelines",
+        "Monitor the permit status and ensure legal compliance of construction work",
+        "Adjust planning dynamically based on project delays or field feedback"
+      ],
+      "requirements": [
+        "Minimum 2 years of experience in telecom, utility, or civil project planning",
+        "Familiarity with fiber deployment processes (FTTH, backbone, FTTB)",
+        "Ability to read and interpret technical designs, CAD/GIS maps, and permit drawings",
+        "Strong communication and coordination skills with internal and external stakeholders",
+        "Fluent in English (spoken and written)",
+        "Good digital skills (Excel, project planning tools, documentation)",
+        "EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience working with permit authorities and municipal systems",
+        "Basic understanding of fiber design and field constraints",
+        "Experience with Dutch, Belgian, or German fiber rollout standards",
+        "VCA / SCC safety certification is a plus"
+      ],
+      "perks": [
+        "Competitive monthly salary based on experience",
+        "Stable long-term projects with growth opportunities",
+        "Hybrid work options depending on project phase",
+        "Housing and relocation support available if needed",
+        "Full onboarding, training, and coordination with engineering teams",
+        "Work in an international environment with clear responsibilities"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordination team",
+        "2nd Round: Interview with client-side planning or construction lead",
+        "Optional: Case study or planning assignment"
+      ]
+    },
+    {
+      "id": "8",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Project Manager",
+      "location": "Europe",
+      "salary": "Attractive monthly salary based on seniority",
+      "company": "GlobalHire Clients",
+      "description": "GlobalHire is looking for experienced Project Managers to lead fiber optic rollout projects across Europe. In this role, you are responsible for the full project lifecycle — from planning and stakeholder coordination to execution, risk management, and delivery. You will lead cross-functional teams, manage budgets, and ensure delivery meets quality and time expectations set by telecom clients.",
+      "responsibilities": [
+        "Manage fiber optic deployment projects (FTTH, backbone, or business networks)",
+        "Develop and maintain project plans, resource schedules, and reporting structures",
+        "Coordinate with engineering, field operations, permitting, and subcontractors",
+        "Monitor progress, resolve delays, and adjust timelines as needed",
+        "Track project KPIs, budget usage, and contractor performance",
+        "Organize internal and external project meetings",
+        "Report status updates to clients and GlobalHire senior management",
+        "Ensure compliance with legal, safety, and technical standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of project management experience in telecom or infrastructure",
+        "Proven ability to lead multi-disciplinary teams",
+        "Strong understanding of fiber rollout processes (FTTH, FTTB, FTTX)",
+        "Solid grasp of planning tools (MS Project, Primavera, or similar)",
+        "Fluent in English (written and spoken); Dutch or German is a plus",
+        "Financial awareness: budgeting, cost tracking, invoice validation",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with projects in the Netherlands, Belgium, or Germany",
+        "Understanding of civil engineering and utility permitting workflows",
+        "PMP, PRINCE2, or similar certification",
+        "Familiarity with telecom quality control standards (e.g. ISO, CENELEC)"
+      ],
+      "perks": [
+        "Attractive monthly salary based on seniority",
+        "Company car, laptop, and phone included",
+        "Accommodation and relocation support where needed",
+        "Bonuses based on project delivery performance",
+        "Freedom to lead projects with international teams",
+        "Support for training, certification, and career advancement"
+      ],
+      "process": [
+        "1st Round: Project management interview with GlobalHire",
+        "2nd Round: Interview with client-side delivery or technical manager",
+        "Optional: Presentation of project portfolio or case study"
+      ]
+    },
+    {
+      "id": "9",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Aerial Fiber Technician (Overhead Installer)",
+      "location": "Europe",
+      "salary": "Monthly salary based on experience and climbing qualifications",
+      "company": "GlobalHire Clients",
+      "description": "We are hiring Aerial Fiber Technicians to support the installation of fiber optic cables via overhead routes throughout Europe. This hands-on role involves working at heights to string cables across poles, rooftops, and facades. You will be part of a mobile team building the physical backbone of high-speed telecom networks, especially in rural or densely built environments.",
+      "responsibilities": [
+        "Install and secure fiber optic cables along utility poles, rooftops, and buildings",
+        "Use ladders, bucket trucks, or climbing gear to access aerial routes",
+        "Mount brackets, anchors, and support hardware for cable routing",
+        "Perform basic terminations and handoffs to splicing teams",
+        "Ensure correct tensioning, alignment, and protection of overhead cables",
+        "Inspect and maintain aerial lines, identifying damage or obstructions",
+        "Follow site safety protocols for working at height and near live infrastructure",
+        "Document work with photos and updates via mobile tools"
+      ],
+      "requirements": [
+        "Experience with aerial telecom or utility installations",
+        "Comfortable working at height using ladders or lift equipment",
+        "Basic skills in fiber cable handling and route layout",
+        "Knowledge of safety regulations and fall protection procedures",
+        "Able to read basic network or installation plans",
+        "Physically fit and able to work in outdoor conditions",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Climbing certification or high-access training (GWO, IPAF, etc.)",
+        "Experience with FTTH aerial networks in Europe",
+        "Electrical or telecom background",
+        "Familiarity with rural infrastructure or urban retrofit projects"
+      ],
+      "perks": [
+        "Monthly salary based on experience and climbing qualifications",
+        "Safety gear, equipment, and PPE provided",
+        "Company van or transport to job sites",
+        "Accommodation and travel support for non-local teams",
+        "Bonus options for completed routes or KPIs",
+        "Structured training and support for advanced roles"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire field deployment team",
+        "2nd Round: Safety and technical interview with client or site coordinator",
+        "Optional: Climbing or practical assessment on-site"
+      ]
     }
+    
+    
   ],
   "WORDS_DU": [
     {
@@ -130,6 +464,338 @@
         "Wekelijkse betaling met optionele overurentoeslagen",
         "Ondersteuning bij documenten, introductie en vervoer",
         "Mogelijkheid om jaarlijks terug te keren voor herhaalde contracten"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Network Engineer",
+      "location": "Europe",
+      "salary": "Up-to €10.000 / Month",
+      "company": "GlobalHire Clients",
+      "description": "Join a growing international team deploying next-generation fiber optic infrastructure across Europe. As a Fiber Optic Network Engineer, you will take ownership of the design, documentation, and technical planning of fiber networks for residential, commercial, and industrial areas. Your role will focus on translating high-level project needs into workable, scalable network designs that guide field teams toward successful implementation.",
+      "responsibilities": [
+        "Design and document fiber optic network architecture (FTTH, FTTB, FTTC)",
+        "Prepare and review network layouts, splice diagrams, and route schematics.",
+        "Coordinate site surveys and assess technical feasibility",
+        "Collaborate with project managers, civil teams, and field supervisors",
+        "Update and revise designs throughout build phases",
+        "Ensure technical compliance with customer and regulatory standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in fiber network design or telecom engineering",
+        "Proficiency in AutoCAD, QGIS, Visio, or similar design tools",
+        "Knowledge of network topologies including GPON and active Ethernet",
+        "Ability to produce and interpret technical documentation",
+        "Excellent communication in English (written and spoken)",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with international rollout or multi-region projects",
+        "Familiarity with GIS tools or fiber design platforms",
+        "Certifications such as FOA CFND, FTTH Council Europe, or equivalent"
+      ],
+      "perks": [
+        "Monthly salary based on experience and qualifications",
+        "Long-term projects with stable work volume",
+        "Accommodation and transport provided for cross-border workers",
+        "Insurance, relocation support, and onboarding included",
+        "Work with Tier-1 telecom operators across Europe",
+        "Tools, PPE, and technical onboarding fully arranged"
+      ],
+      "process": [
+        "1st Round: Technical screening by GlobalHire engineering team",
+        "2nd Round: Interview with client-side technical coordinator",
+        "Optional: Portfolio or sample design review"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Underground Fiber Technician",
+      "location": "Europe",
+      "salary": "Fixed monthly salary based on skill and experience",
+      "company": "GlobalHire Clients",
+      "description": "As part of our expanding European operations, GlobalHire is hiring skilled Underground Fiber Technicians to support the physical installation of fiber optic networks across various terrains. You will work on the ground level of telecom infrastructure deployment, executing trenching, ducting, and cable installation work for fiber rollout projects in residential and commercial zones. This is a hands-on, field-based role suitable for candidates with civil or utility installation experience.",
+      "responsibilities": [
+        "Perform excavation, trenching, and backfilling for underground cable routes",
+        "Install ducts, microducts, and fiber optic cables according to design specifications",
+        "Operate basic civil machinery (e.g. mini-excavators, trenchers) where certified",
+        "Pull, blow, or lay fiber cables into pre-installed ducts",
+        "Assist splicing teams by preparing cables for handover",
+        "Follow site safety standards and ensure worksite cleanliness",
+        "Document daily progress and report to site supervisor"
+      ],
+      "requirements": [
+        "Previous experience in civil, construction, or utility installation work",
+        "Familiarity with trenching, ducting, or cable pulling techniques",
+        "Basic knowledge of fiber optic infrastructure is a strong advantage",
+        "Physical fitness and willingness to work outdoors in various conditions",
+        "Ability to follow instructions and read basic site plans",
+        "Basic English or local language for team coordination",
+        "Valid EU driving license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with fiber optic projects or telecom construction sites",
+        "Mini-excavator or machinery operation certification",
+        "VCA / SCC or equivalent safety training",
+        "Experience working in multinational teams"
+      ],
+      "perks": [
+        "Fixed monthly salary based on skill and experience",
+        "Long-term contracts with consistent workload",
+        "Accommodation, transport, and PPE provided for international hires",
+        "Paid training and onboarding where needed",
+        "Career progression opportunities within large-scale infrastructure projects",
+        "Support with documentation, relocation, and registration in host country"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire civil deployment team",
+        "2nd Round: Interview with local project site coordinator",
+        "Optional: Practical skills test or reference check"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Splicing Technician",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on skill and certifications",
+      "company": "GlobalHire Clients",
+      "description": "We are looking for experienced Fiber Optic Splicing Technicians to join our telecom rollout teams across Europe. In this technical role, you will be responsible for connecting, testing, and certifying fiber optic cables using fusion splicing techniques. You will ensure high-performance network continuity by executing precise work according to strict quality standards and project timelines.",
+      "responsibilities": [
+        "Perform fiber splicing using fusion splicing equipment (Fujikura, Sumitomo, etc.)",
+        "Install and manage splice closures, patch panels, and distribution boxes",
+        "Conduct signal and continuity tests using OTDR, power meters, and VFL",
+        "Read and interpret fiber documentation such as splice plans and schematics",
+        "Label, trace, and document all splice and test points",
+        "Troubleshoot faults and perform corrective splicing when needed",
+        "Ensure cleanliness, precision, and quality control on all terminations",
+        "Work closely with installation and design teams during network activation"
+      ],
+      "requirements": [
+        "Minimum 2 years of hands-on experience in fiber splicing",
+        "Proficient in using OTDR, LSPM, and fusion splicing tools",
+        "Ability to read fiber plans and update as-built documentation",
+        "Strong focus on precision, quality, and clean cable management",
+        "Fluent in English or ability to communicate clearly with team",
+        "Valid EU driver’s license (B)",
+        "Willingness to travel or stay on location as required"
+      ],
+      "nice_to_have": [
+        "FOA CFOT, ETA certification, or similar",
+        "Experience working on FTTH or backbone projects",
+        "Familiarity with various splice tray and closure types",
+        "Previous experience in cross-border telecom work"
+      ],
+      "perks": [
+        "Competitive monthly salary based on skill and certifications",
+        "Long-term contracts and stable work environments",
+        "Accommodation, tools, and company vehicle (for mobile teams)",
+        "Paid travel expenses and per diem allowance",
+        "Opportunities to advance into QA or supervisory roles",
+        "Support with relocation and onboarding for international hires"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordinator",
+        "2nd Round: Client-side test or technical validation",
+        "Optional: Submission of sample splice report or certification"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Site Supervisor",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on seniority and experience",
+      "company": "GlobalHire Clients",
+      "description": "We are seeking experienced Fiber Site Supervisors to oversee day-to-day activities on fiber optic deployment projects across Europe. In this role, you will manage teams of technicians, coordinate on-site tasks, and ensure safe, timely, and high-quality delivery of network infrastructure. You will act as the key link between field operations and project management, ensuring work is performed according to plan, standard, and schedule.",
+      "responsibilities": [
+        "Supervise on-site fiber installation, civil works, and splicing activities",
+        "Coordinate work schedules, teams, and equipment on daily basis",
+        "Perform quality checks and site inspections during all stages of the build",
+        "Resolve field-level issues and escalate technical concerns when needed",
+        "Monitor adherence to health and safety guidelines (toolbox talks, PPE, etc.)",
+        "Maintain daily logs, material usage, and progress reports",
+        "Liaise with clients, subcontractors, and engineering teams",
+        "Ensure handover documentation and as-built updates are properly completed"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in telecom or civil site supervision",
+        "Proven leadership experience managing fiber or utility teams",
+        "Strong understanding of FTTH/FTTX deployments and workflows",
+        "Ability to read network diagrams, fiber maps, and work permits",
+        "Strong problem-solving and people management skills",
+        "Basic digital reporting and email communication skills",
+        "Fluent in English; other European languages are a plus",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "VCA / SCC or equivalent site safety certification",
+        "Experience working in international or multicultural teams",
+        "Familiarity with quality control and field inspection tools",
+        "Background in either splicing or civil engineering is an advantage"
+      ],
+      "perks": [
+        "Competitive monthly salary based on seniority and experience",
+        "Long-term or project-based contracts available",
+        "Accommodation, transport, and company phone provided",
+        "Daily allowance or overtime pay depending on project setup",
+        "Onboarding support, safety training, and leadership development",
+        "Opportunities for advancement to regional or multi-site coordination roles"
+      ],
+      "process": [
+        "1st Round: Screening by GlobalHire field operations team",
+        "2nd Round: Client-side technical and leadership interview",
+        "Optional: Reference check and safety documentation review"
+      ]
+    },
+    {
+      "id": "7",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Work Planner (Civil Work Preparator)",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on experience",
+      "company": "GlobalHire Clients",
+      "description": "We are recruiting Fiber Work Planners to support the preparation and coordination of civil works for fiber optic deployment projects across Europe. In this role, you will be responsible for translating high-level project scopes into executable field instructions. Your focus will be on aligning engineering designs, permits, and local requirements into well-prepared construction packages for teams on the ground.",
+      "responsibilities": [
+        "Translate network designs into field-ready work packages",
+        "Analyze site conditions, survey results, and permit requirements",
+        "Coordinate with local authorities, utility companies, and subcontractors",
+        "Plan trench routes, duct placements, and point-of-entry logistics",
+        "Ensure buildability of routes and identify conflicts in advance",
+        "Prepare detailed documentation for technicians, including maps, materials, and timelines",
+        "Monitor the permit status and ensure legal compliance of construction work",
+        "Adjust planning dynamically based on project delays or field feedback"
+      ],
+      "requirements": [
+        "Minimum 2 years of experience in telecom, utility, or civil project planning",
+        "Familiarity with fiber deployment processes (FTTH, backbone, FTTB)",
+        "Ability to read and interpret technical designs, CAD/GIS maps, and permit drawings",
+        "Strong communication and coordination skills with internal and external stakeholders",
+        "Fluent in English (spoken and written)",
+        "Good digital skills (Excel, project planning tools, documentation)",
+        "EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience working with permit authorities and municipal systems",
+        "Basic understanding of fiber design and field constraints",
+        "Experience with Dutch, Belgian, or German fiber rollout standards",
+        "VCA / SCC safety certification is a plus"
+      ],
+      "perks": [
+        "Competitive monthly salary based on experience",
+        "Stable long-term projects with growth opportunities",
+        "Hybrid work options depending on project phase",
+        "Housing and relocation support available if needed",
+        "Full onboarding, training, and coordination with engineering teams",
+        "Work in an international environment with clear responsibilities"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordination team",
+        "2nd Round: Interview with client-side planning or construction lead",
+        "Optional: Case study or planning assignment"
+      ]
+    },
+    {
+      "id": "8",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Project Manager",
+      "location": "Europe",
+      "salary": "Attractive monthly salary based on seniority",
+      "company": "GlobalHire Clients",
+      "description": "GlobalHire is looking for experienced Project Managers to lead fiber optic rollout projects across Europe. In this role, you are responsible for the full project lifecycle — from planning and stakeholder coordination to execution, risk management, and delivery. You will lead cross-functional teams, manage budgets, and ensure delivery meets quality and time expectations set by telecom clients.",
+      "responsibilities": [
+        "Manage fiber optic deployment projects (FTTH, backbone, or business networks)",
+        "Develop and maintain project plans, resource schedules, and reporting structures",
+        "Coordinate with engineering, field operations, permitting, and subcontractors",
+        "Monitor progress, resolve delays, and adjust timelines as needed",
+        "Track project KPIs, budget usage, and contractor performance",
+        "Organize internal and external project meetings",
+        "Report status updates to clients and GlobalHire senior management",
+        "Ensure compliance with legal, safety, and technical standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of project management experience in telecom or infrastructure",
+        "Proven ability to lead multi-disciplinary teams",
+        "Strong understanding of fiber rollout processes (FTTH, FTTB, FTTX)",
+        "Solid grasp of planning tools (MS Project, Primavera, or similar)",
+        "Fluent in English (written and spoken); Dutch or German is a plus",
+        "Financial awareness: budgeting, cost tracking, invoice validation",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with projects in the Netherlands, Belgium, or Germany",
+        "Understanding of civil engineering and utility permitting workflows",
+        "PMP, PRINCE2, or similar certification",
+        "Familiarity with telecom quality control standards (e.g. ISO, CENELEC)"
+      ],
+      "perks": [
+        "Attractive monthly salary based on seniority",
+        "Company car, laptop, and phone included",
+        "Accommodation and relocation support where needed",
+        "Bonuses based on project delivery performance",
+        "Freedom to lead projects with international teams",
+        "Support for training, certification, and career advancement"
+      ],
+      "process": [
+        "1st Round: Project management interview with GlobalHire",
+        "2nd Round: Interview with client-side delivery or technical manager",
+        "Optional: Presentation of project portfolio or case study"
+      ]
+    },
+    {
+      "id": "9",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Aerial Fiber Technician (Overhead Installer)",
+      "location": "Europe",
+      "salary": "Monthly salary based on experience and climbing qualifications",
+      "company": "GlobalHire Clients",
+      "description": "We are hiring Aerial Fiber Technicians to support the installation of fiber optic cables via overhead routes throughout Europe. This hands-on role involves working at heights to string cables across poles, rooftops, and facades. You will be part of a mobile team building the physical backbone of high-speed telecom networks, especially in rural or densely built environments.",
+      "responsibilities": [
+        "Install and secure fiber optic cables along utility poles, rooftops, and buildings",
+        "Use ladders, bucket trucks, or climbing gear to access aerial routes",
+        "Mount brackets, anchors, and support hardware for cable routing",
+        "Perform basic terminations and handoffs to splicing teams",
+        "Ensure correct tensioning, alignment, and protection of overhead cables",
+        "Inspect and maintain aerial lines, identifying damage or obstructions",
+        "Follow site safety protocols for working at height and near live infrastructure",
+        "Document work with photos and updates via mobile tools"
+      ],
+      "requirements": [
+        "Experience with aerial telecom or utility installations",
+        "Comfortable working at height using ladders or lift equipment",
+        "Basic skills in fiber cable handling and route layout",
+        "Knowledge of safety regulations and fall protection procedures",
+        "Able to read basic network or installation plans",
+        "Physically fit and able to work in outdoor conditions",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Climbing certification or high-access training (GWO, IPAF, etc.)",
+        "Experience with FTTH aerial networks in Europe",
+        "Electrical or telecom background",
+        "Familiarity with rural infrastructure or urban retrofit projects"
+      ],
+      "perks": [
+        "Monthly salary based on experience and climbing qualifications",
+        "Safety gear, equipment, and PPE provided",
+        "Company van or transport to job sites",
+        "Accommodation and travel support for non-local teams",
+        "Bonus options for completed routes or KPIs",
+        "Structured training and support for advanced roles"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire field deployment team",
+        "2nd Round: Safety and technical interview with client or site coordinator",
+        "Optional: Climbing or practical assessment on-site"
       ]
     }
   ],
@@ -198,6 +864,338 @@
         "Unterstützung bei Dokumenten, Einführung und Transport",
         "Möglichkeit zur jährlichen Rückkehr für wiederkehrende Verträge"
       ]
+    },
+    {
+      "id": "3",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Network Engineer",
+      "location": "Europe",
+      "salary": "Up-to €10.000 / Month",
+      "company": "GlobalHire Clients",
+      "description": "Join a growing international team deploying next-generation fiber optic infrastructure across Europe. As a Fiber Optic Network Engineer, you will take ownership of the design, documentation, and technical planning of fiber networks for residential, commercial, and industrial areas. Your role will focus on translating high-level project needs into workable, scalable network designs that guide field teams toward successful implementation.",
+      "responsibilities": [
+        "Design and document fiber optic network architecture (FTTH, FTTB, FTTC)",
+        "Prepare and review network layouts, splice diagrams, and route schematics.",
+        "Coordinate site surveys and assess technical feasibility",
+        "Collaborate with project managers, civil teams, and field supervisors",
+        "Update and revise designs throughout build phases",
+        "Ensure technical compliance with customer and regulatory standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in fiber network design or telecom engineering",
+        "Proficiency in AutoCAD, QGIS, Visio, or similar design tools",
+        "Knowledge of network topologies including GPON and active Ethernet",
+        "Ability to produce and interpret technical documentation",
+        "Excellent communication in English (written and spoken)",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with international rollout or multi-region projects",
+        "Familiarity with GIS tools or fiber design platforms",
+        "Certifications such as FOA CFND, FTTH Council Europe, or equivalent"
+      ],
+      "perks": [
+        "Monthly salary based on experience and qualifications",
+        "Long-term projects with stable work volume",
+        "Accommodation and transport provided for cross-border workers",
+        "Insurance, relocation support, and onboarding included",
+        "Work with Tier-1 telecom operators across Europe",
+        "Tools, PPE, and technical onboarding fully arranged"
+      ],
+      "process": [
+        "1st Round: Technical screening by GlobalHire engineering team",
+        "2nd Round: Interview with client-side technical coordinator",
+        "Optional: Portfolio or sample design review"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Underground Fiber Technician",
+      "location": "Europe",
+      "salary": "Fixed monthly salary based on skill and experience",
+      "company": "GlobalHire Clients",
+      "description": "As part of our expanding European operations, GlobalHire is hiring skilled Underground Fiber Technicians to support the physical installation of fiber optic networks across various terrains. You will work on the ground level of telecom infrastructure deployment, executing trenching, ducting, and cable installation work for fiber rollout projects in residential and commercial zones. This is a hands-on, field-based role suitable for candidates with civil or utility installation experience.",
+      "responsibilities": [
+        "Perform excavation, trenching, and backfilling for underground cable routes",
+        "Install ducts, microducts, and fiber optic cables according to design specifications",
+        "Operate basic civil machinery (e.g. mini-excavators, trenchers) where certified",
+        "Pull, blow, or lay fiber cables into pre-installed ducts",
+        "Assist splicing teams by preparing cables for handover",
+        "Follow site safety standards and ensure worksite cleanliness",
+        "Document daily progress and report to site supervisor"
+      ],
+      "requirements": [
+        "Previous experience in civil, construction, or utility installation work",
+        "Familiarity with trenching, ducting, or cable pulling techniques",
+        "Basic knowledge of fiber optic infrastructure is a strong advantage",
+        "Physical fitness and willingness to work outdoors in various conditions",
+        "Ability to follow instructions and read basic site plans",
+        "Basic English or local language for team coordination",
+        "Valid EU driving license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with fiber optic projects or telecom construction sites",
+        "Mini-excavator or machinery operation certification",
+        "VCA / SCC or equivalent safety training",
+        "Experience working in multinational teams"
+      ],
+      "perks": [
+        "Fixed monthly salary based on skill and experience",
+        "Long-term contracts with consistent workload",
+        "Accommodation, transport, and PPE provided for international hires",
+        "Paid training and onboarding where needed",
+        "Career progression opportunities within large-scale infrastructure projects",
+        "Support with documentation, relocation, and registration in host country"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire civil deployment team",
+        "2nd Round: Interview with local project site coordinator",
+        "Optional: Practical skills test or reference check"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Splicing Technician",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on skill and certifications",
+      "company": "GlobalHire Clients",
+      "description": "We are looking for experienced Fiber Optic Splicing Technicians to join our telecom rollout teams across Europe. In this technical role, you will be responsible for connecting, testing, and certifying fiber optic cables using fusion splicing techniques. You will ensure high-performance network continuity by executing precise work according to strict quality standards and project timelines.",
+      "responsibilities": [
+        "Perform fiber splicing using fusion splicing equipment (Fujikura, Sumitomo, etc.)",
+        "Install and manage splice closures, patch panels, and distribution boxes",
+        "Conduct signal and continuity tests using OTDR, power meters, and VFL",
+        "Read and interpret fiber documentation such as splice plans and schematics",
+        "Label, trace, and document all splice and test points",
+        "Troubleshoot faults and perform corrective splicing when needed",
+        "Ensure cleanliness, precision, and quality control on all terminations",
+        "Work closely with installation and design teams during network activation"
+      ],
+      "requirements": [
+        "Minimum 2 years of hands-on experience in fiber splicing",
+        "Proficient in using OTDR, LSPM, and fusion splicing tools",
+        "Ability to read fiber plans and update as-built documentation",
+        "Strong focus on precision, quality, and clean cable management",
+        "Fluent in English or ability to communicate clearly with team",
+        "Valid EU driver’s license (B)",
+        "Willingness to travel or stay on location as required"
+      ],
+      "nice_to_have": [
+        "FOA CFOT, ETA certification, or similar",
+        "Experience working on FTTH or backbone projects",
+        "Familiarity with various splice tray and closure types",
+        "Previous experience in cross-border telecom work"
+      ],
+      "perks": [
+        "Competitive monthly salary based on skill and certifications",
+        "Long-term contracts and stable work environments",
+        "Accommodation, tools, and company vehicle (for mobile teams)",
+        "Paid travel expenses and per diem allowance",
+        "Opportunities to advance into QA or supervisory roles",
+        "Support with relocation and onboarding for international hires"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordinator",
+        "2nd Round: Client-side test or technical validation",
+        "Optional: Submission of sample splice report or certification"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Site Supervisor",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on seniority and experience",
+      "company": "GlobalHire Clients",
+      "description": "We are seeking experienced Fiber Site Supervisors to oversee day-to-day activities on fiber optic deployment projects across Europe. In this role, you will manage teams of technicians, coordinate on-site tasks, and ensure safe, timely, and high-quality delivery of network infrastructure. You will act as the key link between field operations and project management, ensuring work is performed according to plan, standard, and schedule.",
+      "responsibilities": [
+        "Supervise on-site fiber installation, civil works, and splicing activities",
+        "Coordinate work schedules, teams, and equipment on daily basis",
+        "Perform quality checks and site inspections during all stages of the build",
+        "Resolve field-level issues and escalate technical concerns when needed",
+        "Monitor adherence to health and safety guidelines (toolbox talks, PPE, etc.)",
+        "Maintain daily logs, material usage, and progress reports",
+        "Liaise with clients, subcontractors, and engineering teams",
+        "Ensure handover documentation and as-built updates are properly completed"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in telecom or civil site supervision",
+        "Proven leadership experience managing fiber or utility teams",
+        "Strong understanding of FTTH/FTTX deployments and workflows",
+        "Ability to read network diagrams, fiber maps, and work permits",
+        "Strong problem-solving and people management skills",
+        "Basic digital reporting and email communication skills",
+        "Fluent in English; other European languages are a plus",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "VCA / SCC or equivalent site safety certification",
+        "Experience working in international or multicultural teams",
+        "Familiarity with quality control and field inspection tools",
+        "Background in either splicing or civil engineering is an advantage"
+      ],
+      "perks": [
+        "Competitive monthly salary based on seniority and experience",
+        "Long-term or project-based contracts available",
+        "Accommodation, transport, and company phone provided",
+        "Daily allowance or overtime pay depending on project setup",
+        "Onboarding support, safety training, and leadership development",
+        "Opportunities for advancement to regional or multi-site coordination roles"
+      ],
+      "process": [
+        "1st Round: Screening by GlobalHire field operations team",
+        "2nd Round: Client-side technical and leadership interview",
+        "Optional: Reference check and safety documentation review"
+      ]
+    },
+    {
+      "id": "7",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Work Planner (Civil Work Preparator)",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on experience",
+      "company": "GlobalHire Clients",
+      "description": "We are recruiting Fiber Work Planners to support the preparation and coordination of civil works for fiber optic deployment projects across Europe. In this role, you will be responsible for translating high-level project scopes into executable field instructions. Your focus will be on aligning engineering designs, permits, and local requirements into well-prepared construction packages for teams on the ground.",
+      "responsibilities": [
+        "Translate network designs into field-ready work packages",
+        "Analyze site conditions, survey results, and permit requirements",
+        "Coordinate with local authorities, utility companies, and subcontractors",
+        "Plan trench routes, duct placements, and point-of-entry logistics",
+        "Ensure buildability of routes and identify conflicts in advance",
+        "Prepare detailed documentation for technicians, including maps, materials, and timelines",
+        "Monitor the permit status and ensure legal compliance of construction work",
+        "Adjust planning dynamically based on project delays or field feedback"
+      ],
+      "requirements": [
+        "Minimum 2 years of experience in telecom, utility, or civil project planning",
+        "Familiarity with fiber deployment processes (FTTH, backbone, FTTB)",
+        "Ability to read and interpret technical designs, CAD/GIS maps, and permit drawings",
+        "Strong communication and coordination skills with internal and external stakeholders",
+        "Fluent in English (spoken and written)",
+        "Good digital skills (Excel, project planning tools, documentation)",
+        "EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience working with permit authorities and municipal systems",
+        "Basic understanding of fiber design and field constraints",
+        "Experience with Dutch, Belgian, or German fiber rollout standards",
+        "VCA / SCC safety certification is a plus"
+      ],
+      "perks": [
+        "Competitive monthly salary based on experience",
+        "Stable long-term projects with growth opportunities",
+        "Hybrid work options depending on project phase",
+        "Housing and relocation support available if needed",
+        "Full onboarding, training, and coordination with engineering teams",
+        "Work in an international environment with clear responsibilities"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordination team",
+        "2nd Round: Interview with client-side planning or construction lead",
+        "Optional: Case study or planning assignment"
+      ]
+    },
+    {
+      "id": "8",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Project Manager",
+      "location": "Europe",
+      "salary": "Attractive monthly salary based on seniority",
+      "company": "GlobalHire Clients",
+      "description": "GlobalHire is looking for experienced Project Managers to lead fiber optic rollout projects across Europe. In this role, you are responsible for the full project lifecycle — from planning and stakeholder coordination to execution, risk management, and delivery. You will lead cross-functional teams, manage budgets, and ensure delivery meets quality and time expectations set by telecom clients.",
+      "responsibilities": [
+        "Manage fiber optic deployment projects (FTTH, backbone, or business networks)",
+        "Develop and maintain project plans, resource schedules, and reporting structures",
+        "Coordinate with engineering, field operations, permitting, and subcontractors",
+        "Monitor progress, resolve delays, and adjust timelines as needed",
+        "Track project KPIs, budget usage, and contractor performance",
+        "Organize internal and external project meetings",
+        "Report status updates to clients and GlobalHire senior management",
+        "Ensure compliance with legal, safety, and technical standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of project management experience in telecom or infrastructure",
+        "Proven ability to lead multi-disciplinary teams",
+        "Strong understanding of fiber rollout processes (FTTH, FTTB, FTTX)",
+        "Solid grasp of planning tools (MS Project, Primavera, or similar)",
+        "Fluent in English (written and spoken); Dutch or German is a plus",
+        "Financial awareness: budgeting, cost tracking, invoice validation",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with projects in the Netherlands, Belgium, or Germany",
+        "Understanding of civil engineering and utility permitting workflows",
+        "PMP, PRINCE2, or similar certification",
+        "Familiarity with telecom quality control standards (e.g. ISO, CENELEC)"
+      ],
+      "perks": [
+        "Attractive monthly salary based on seniority",
+        "Company car, laptop, and phone included",
+        "Accommodation and relocation support where needed",
+        "Bonuses based on project delivery performance",
+        "Freedom to lead projects with international teams",
+        "Support for training, certification, and career advancement"
+      ],
+      "process": [
+        "1st Round: Project management interview with GlobalHire",
+        "2nd Round: Interview with client-side delivery or technical manager",
+        "Optional: Presentation of project portfolio or case study"
+      ]
+    },
+    {
+      "id": "9",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Aerial Fiber Technician (Overhead Installer)",
+      "location": "Europe",
+      "salary": "Monthly salary based on experience and climbing qualifications",
+      "company": "GlobalHire Clients",
+      "description": "We are hiring Aerial Fiber Technicians to support the installation of fiber optic cables via overhead routes throughout Europe. This hands-on role involves working at heights to string cables across poles, rooftops, and facades. You will be part of a mobile team building the physical backbone of high-speed telecom networks, especially in rural or densely built environments.",
+      "responsibilities": [
+        "Install and secure fiber optic cables along utility poles, rooftops, and buildings",
+        "Use ladders, bucket trucks, or climbing gear to access aerial routes",
+        "Mount brackets, anchors, and support hardware for cable routing",
+        "Perform basic terminations and handoffs to splicing teams",
+        "Ensure correct tensioning, alignment, and protection of overhead cables",
+        "Inspect and maintain aerial lines, identifying damage or obstructions",
+        "Follow site safety protocols for working at height and near live infrastructure",
+        "Document work with photos and updates via mobile tools"
+      ],
+      "requirements": [
+        "Experience with aerial telecom or utility installations",
+        "Comfortable working at height using ladders or lift equipment",
+        "Basic skills in fiber cable handling and route layout",
+        "Knowledge of safety regulations and fall protection procedures",
+        "Able to read basic network or installation plans",
+        "Physically fit and able to work in outdoor conditions",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Climbing certification or high-access training (GWO, IPAF, etc.)",
+        "Experience with FTTH aerial networks in Europe",
+        "Electrical or telecom background",
+        "Familiarity with rural infrastructure or urban retrofit projects"
+      ],
+      "perks": [
+        "Monthly salary based on experience and climbing qualifications",
+        "Safety gear, equipment, and PPE provided",
+        "Company van or transport to job sites",
+        "Accommodation and travel support for non-local teams",
+        "Bonus options for completed routes or KPIs",
+        "Structured training and support for advanced roles"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire field deployment team",
+        "2nd Round: Safety and technical interview with client or site coordinator",
+        "Optional: Climbing or practical assessment on-site"
+      ]
     }
   ],
   "WORDS_FE": [
@@ -265,7 +1263,338 @@
         "Hỗ trợ về giấy tờ, hướng dẫn và phương tiện đi lại",
         "Cơ hội trở lại làm việc hàng năm với hợp đồng định kỳ"
       ]
+    },
+    {
+      "id": "3",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Network Engineer",
+      "location": "Europe",
+      "salary": "Up-to €10.000 / Month",
+      "company": "GlobalHire Clients",
+      "description": "Join a growing international team deploying next-generation fiber optic infrastructure across Europe. As a Fiber Optic Network Engineer, you will take ownership of the design, documentation, and technical planning of fiber networks for residential, commercial, and industrial areas. Your role will focus on translating high-level project needs into workable, scalable network designs that guide field teams toward successful implementation.",
+      "responsibilities": [
+        "Design and document fiber optic network architecture (FTTH, FTTB, FTTC)",
+        "Prepare and review network layouts, splice diagrams, and route schematics.",
+        "Coordinate site surveys and assess technical feasibility",
+        "Collaborate with project managers, civil teams, and field supervisors",
+        "Update and revise designs throughout build phases",
+        "Ensure technical compliance with customer and regulatory standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in fiber network design or telecom engineering",
+        "Proficiency in AutoCAD, QGIS, Visio, or similar design tools",
+        "Knowledge of network topologies including GPON and active Ethernet",
+        "Ability to produce and interpret technical documentation",
+        "Excellent communication in English (written and spoken)",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with international rollout or multi-region projects",
+        "Familiarity with GIS tools or fiber design platforms",
+        "Certifications such as FOA CFND, FTTH Council Europe, or equivalent"
+      ],
+      "perks": [
+        "Monthly salary based on experience and qualifications",
+        "Long-term projects with stable work volume",
+        "Accommodation and transport provided for cross-border workers",
+        "Insurance, relocation support, and onboarding included",
+        "Work with Tier-1 telecom operators across Europe",
+        "Tools, PPE, and technical onboarding fully arranged"
+      ],
+      "process": [
+        "1st Round: Technical screening by GlobalHire engineering team",
+        "2nd Round: Interview with client-side technical coordinator",
+        "Optional: Portfolio or sample design review"
+      ]
+    },
+    {
+      "id": "4",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Underground Fiber Technician",
+      "location": "Europe",
+      "salary": "Fixed monthly salary based on skill and experience",
+      "company": "GlobalHire Clients",
+      "description": "As part of our expanding European operations, GlobalHire is hiring skilled Underground Fiber Technicians to support the physical installation of fiber optic networks across various terrains. You will work on the ground level of telecom infrastructure deployment, executing trenching, ducting, and cable installation work for fiber rollout projects in residential and commercial zones. This is a hands-on, field-based role suitable for candidates with civil or utility installation experience.",
+      "responsibilities": [
+        "Perform excavation, trenching, and backfilling for underground cable routes",
+        "Install ducts, microducts, and fiber optic cables according to design specifications",
+        "Operate basic civil machinery (e.g. mini-excavators, trenchers) where certified",
+        "Pull, blow, or lay fiber cables into pre-installed ducts",
+        "Assist splicing teams by preparing cables for handover",
+        "Follow site safety standards and ensure worksite cleanliness",
+        "Document daily progress and report to site supervisor"
+      ],
+      "requirements": [
+        "Previous experience in civil, construction, or utility installation work",
+        "Familiarity with trenching, ducting, or cable pulling techniques",
+        "Basic knowledge of fiber optic infrastructure is a strong advantage",
+        "Physical fitness and willingness to work outdoors in various conditions",
+        "Ability to follow instructions and read basic site plans",
+        "Basic English or local language for team coordination",
+        "Valid EU driving license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with fiber optic projects or telecom construction sites",
+        "Mini-excavator or machinery operation certification",
+        "VCA / SCC or equivalent safety training",
+        "Experience working in multinational teams"
+      ],
+      "perks": [
+        "Fixed monthly salary based on skill and experience",
+        "Long-term contracts with consistent workload",
+        "Accommodation, transport, and PPE provided for international hires",
+        "Paid training and onboarding where needed",
+        "Career progression opportunities within large-scale infrastructure projects",
+        "Support with documentation, relocation, and registration in host country"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire civil deployment team",
+        "2nd Round: Interview with local project site coordinator",
+        "Optional: Practical skills test or reference check"
+      ]
+    },
+    {
+      "id": "5",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Splicing Technician",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on skill and certifications",
+      "company": "GlobalHire Clients",
+      "description": "We are looking for experienced Fiber Optic Splicing Technicians to join our telecom rollout teams across Europe. In this technical role, you will be responsible for connecting, testing, and certifying fiber optic cables using fusion splicing techniques. You will ensure high-performance network continuity by executing precise work according to strict quality standards and project timelines.",
+      "responsibilities": [
+        "Perform fiber splicing using fusion splicing equipment (Fujikura, Sumitomo, etc.)",
+        "Install and manage splice closures, patch panels, and distribution boxes",
+        "Conduct signal and continuity tests using OTDR, power meters, and VFL",
+        "Read and interpret fiber documentation such as splice plans and schematics",
+        "Label, trace, and document all splice and test points",
+        "Troubleshoot faults and perform corrective splicing when needed",
+        "Ensure cleanliness, precision, and quality control on all terminations",
+        "Work closely with installation and design teams during network activation"
+      ],
+      "requirements": [
+        "Minimum 2 years of hands-on experience in fiber splicing",
+        "Proficient in using OTDR, LSPM, and fusion splicing tools",
+        "Ability to read fiber plans and update as-built documentation",
+        "Strong focus on precision, quality, and clean cable management",
+        "Fluent in English or ability to communicate clearly with team",
+        "Valid EU driver’s license (B)",
+        "Willingness to travel or stay on location as required"
+      ],
+      "nice_to_have": [
+        "FOA CFOT, ETA certification, or similar",
+        "Experience working on FTTH or backbone projects",
+        "Familiarity with various splice tray and closure types",
+        "Previous experience in cross-border telecom work"
+      ],
+      "perks": [
+        "Competitive monthly salary based on skill and certifications",
+        "Long-term contracts and stable work environments",
+        "Accommodation, tools, and company vehicle (for mobile teams)",
+        "Paid travel expenses and per diem allowance",
+        "Opportunities to advance into QA or supervisory roles",
+        "Support with relocation and onboarding for international hires"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordinator",
+        "2nd Round: Client-side test or technical validation",
+        "Optional: Submission of sample splice report or certification"
+      ]
+    },
+    {
+      "id": "6",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Site Supervisor",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on seniority and experience",
+      "company": "GlobalHire Clients",
+      "description": "We are seeking experienced Fiber Site Supervisors to oversee day-to-day activities on fiber optic deployment projects across Europe. In this role, you will manage teams of technicians, coordinate on-site tasks, and ensure safe, timely, and high-quality delivery of network infrastructure. You will act as the key link between field operations and project management, ensuring work is performed according to plan, standard, and schedule.",
+      "responsibilities": [
+        "Supervise on-site fiber installation, civil works, and splicing activities",
+        "Coordinate work schedules, teams, and equipment on daily basis",
+        "Perform quality checks and site inspections during all stages of the build",
+        "Resolve field-level issues and escalate technical concerns when needed",
+        "Monitor adherence to health and safety guidelines (toolbox talks, PPE, etc.)",
+        "Maintain daily logs, material usage, and progress reports",
+        "Liaise with clients, subcontractors, and engineering teams",
+        "Ensure handover documentation and as-built updates are properly completed"
+      ],
+      "requirements": [
+        "Minimum 3 years of experience in telecom or civil site supervision",
+        "Proven leadership experience managing fiber or utility teams",
+        "Strong understanding of FTTH/FTTX deployments and workflows",
+        "Ability to read network diagrams, fiber maps, and work permits",
+        "Strong problem-solving and people management skills",
+        "Basic digital reporting and email communication skills",
+        "Fluent in English; other European languages are a plus",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "VCA / SCC or equivalent site safety certification",
+        "Experience working in international or multicultural teams",
+        "Familiarity with quality control and field inspection tools",
+        "Background in either splicing or civil engineering is an advantage"
+      ],
+      "perks": [
+        "Competitive monthly salary based on seniority and experience",
+        "Long-term or project-based contracts available",
+        "Accommodation, transport, and company phone provided",
+        "Daily allowance or overtime pay depending on project setup",
+        "Onboarding support, safety training, and leadership development",
+        "Opportunities for advancement to regional or multi-site coordination roles"
+      ],
+      "process": [
+        "1st Round: Screening by GlobalHire field operations team",
+        "2nd Round: Client-side technical and leadership interview",
+        "Optional: Reference check and safety documentation review"
+      ]
+    },
+    {
+      "id": "7",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Work Planner (Civil Work Preparator)",
+      "location": "Europe",
+      "salary": "Competitive monthly salary based on experience",
+      "company": "GlobalHire Clients",
+      "description": "We are recruiting Fiber Work Planners to support the preparation and coordination of civil works for fiber optic deployment projects across Europe. In this role, you will be responsible for translating high-level project scopes into executable field instructions. Your focus will be on aligning engineering designs, permits, and local requirements into well-prepared construction packages for teams on the ground.",
+      "responsibilities": [
+        "Translate network designs into field-ready work packages",
+        "Analyze site conditions, survey results, and permit requirements",
+        "Coordinate with local authorities, utility companies, and subcontractors",
+        "Plan trench routes, duct placements, and point-of-entry logistics",
+        "Ensure buildability of routes and identify conflicts in advance",
+        "Prepare detailed documentation for technicians, including maps, materials, and timelines",
+        "Monitor the permit status and ensure legal compliance of construction work",
+        "Adjust planning dynamically based on project delays or field feedback"
+      ],
+      "requirements": [
+        "Minimum 2 years of experience in telecom, utility, or civil project planning",
+        "Familiarity with fiber deployment processes (FTTH, backbone, FTTB)",
+        "Ability to read and interpret technical designs, CAD/GIS maps, and permit drawings",
+        "Strong communication and coordination skills with internal and external stakeholders",
+        "Fluent in English (spoken and written)",
+        "Good digital skills (Excel, project planning tools, documentation)",
+        "EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience working with permit authorities and municipal systems",
+        "Basic understanding of fiber design and field constraints",
+        "Experience with Dutch, Belgian, or German fiber rollout standards",
+        "VCA / SCC safety certification is a plus"
+      ],
+      "perks": [
+        "Competitive monthly salary based on experience",
+        "Stable long-term projects with growth opportunities",
+        "Hybrid work options depending on project phase",
+        "Housing and relocation support available if needed",
+        "Full onboarding, training, and coordination with engineering teams",
+        "Work in an international environment with clear responsibilities"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire technical coordination team",
+        "2nd Round: Interview with client-side planning or construction lead",
+        "Optional: Case study or planning assignment"
+      ]
+    },
+    {
+      "id": "8",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Fiber Optic Project Manager",
+      "location": "Europe",
+      "salary": "Attractive monthly salary based on seniority",
+      "company": "GlobalHire Clients",
+      "description": "GlobalHire is looking for experienced Project Managers to lead fiber optic rollout projects across Europe. In this role, you are responsible for the full project lifecycle — from planning and stakeholder coordination to execution, risk management, and delivery. You will lead cross-functional teams, manage budgets, and ensure delivery meets quality and time expectations set by telecom clients.",
+      "responsibilities": [
+        "Manage fiber optic deployment projects (FTTH, backbone, or business networks)",
+        "Develop and maintain project plans, resource schedules, and reporting structures",
+        "Coordinate with engineering, field operations, permitting, and subcontractors",
+        "Monitor progress, resolve delays, and adjust timelines as needed",
+        "Track project KPIs, budget usage, and contractor performance",
+        "Organize internal and external project meetings",
+        "Report status updates to clients and GlobalHire senior management",
+        "Ensure compliance with legal, safety, and technical standards"
+      ],
+      "requirements": [
+        "Minimum 3 years of project management experience in telecom or infrastructure",
+        "Proven ability to lead multi-disciplinary teams",
+        "Strong understanding of fiber rollout processes (FTTH, FTTB, FTTX)",
+        "Solid grasp of planning tools (MS Project, Primavera, or similar)",
+        "Fluent in English (written and spoken); Dutch or German is a plus",
+        "Financial awareness: budgeting, cost tracking, invoice validation",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Experience with projects in the Netherlands, Belgium, or Germany",
+        "Understanding of civil engineering and utility permitting workflows",
+        "PMP, PRINCE2, or similar certification",
+        "Familiarity with telecom quality control standards (e.g. ISO, CENELEC)"
+      ],
+      "perks": [
+        "Attractive monthly salary based on seniority",
+        "Company car, laptop, and phone included",
+        "Accommodation and relocation support where needed",
+        "Bonuses based on project delivery performance",
+        "Freedom to lead projects with international teams",
+        "Support for training, certification, and career advancement"
+      ],
+      "process": [
+        "1st Round: Project management interview with GlobalHire",
+        "2nd Round: Interview with client-side delivery or technical manager",
+        "Optional: Presentation of project portfolio or case study"
+      ]
+    },
+    {
+      "id": "9",
+      "image": "assets/img/job-post/job-post-image1.png",
+      "tag": "Freelance",
+      "title": "Aerial Fiber Technician (Overhead Installer)",
+      "location": "Europe",
+      "salary": "Monthly salary based on experience and climbing qualifications",
+      "company": "GlobalHire Clients",
+      "description": "We are hiring Aerial Fiber Technicians to support the installation of fiber optic cables via overhead routes throughout Europe. This hands-on role involves working at heights to string cables across poles, rooftops, and facades. You will be part of a mobile team building the physical backbone of high-speed telecom networks, especially in rural or densely built environments.",
+      "responsibilities": [
+        "Install and secure fiber optic cables along utility poles, rooftops, and buildings",
+        "Use ladders, bucket trucks, or climbing gear to access aerial routes",
+        "Mount brackets, anchors, and support hardware for cable routing",
+        "Perform basic terminations and handoffs to splicing teams",
+        "Ensure correct tensioning, alignment, and protection of overhead cables",
+        "Inspect and maintain aerial lines, identifying damage or obstructions",
+        "Follow site safety protocols for working at height and near live infrastructure",
+        "Document work with photos and updates via mobile tools"
+      ],
+      "requirements": [
+        "Experience with aerial telecom or utility installations",
+        "Comfortable working at height using ladders or lift equipment",
+        "Basic skills in fiber cable handling and route layout",
+        "Knowledge of safety regulations and fall protection procedures",
+        "Able to read basic network or installation plans",
+        "Physically fit and able to work in outdoor conditions",
+        "Valid EU driver’s license (B)"
+      ],
+      "nice_to_have": [
+        "Climbing certification or high-access training (GWO, IPAF, etc.)",
+        "Experience with FTTH aerial networks in Europe",
+        "Electrical or telecom background",
+        "Familiarity with rural infrastructure or urban retrofit projects"
+      ],
+      "perks": [
+        "Monthly salary based on experience and climbing qualifications",
+        "Safety gear, equipment, and PPE provided",
+        "Company van or transport to job sites",
+        "Accommodation and travel support for non-local teams",
+        "Bonus options for completed routes or KPIs",
+        "Structured training and support for advanced roles"
+      ],
+      "process": [
+        "1st Round: Interview with GlobalHire field deployment team",
+        "2nd Round: Safety and technical interview with client or site coordinator",
+        "Optional: Climbing or practical assessment on-site"
+      ]
     }
-  ]  
-  
+  ]
 }
