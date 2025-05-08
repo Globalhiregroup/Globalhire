@@ -56,17 +56,13 @@
               <div class="job-post-box">
                 <p class="tag">${job.tag}</p>
                 <div class="job-owners-area">
-                  <div class="image">
-                    <img src="${job.image}" alt="${job.title}" />
-                  </div>
                   <div class="text">
-                    <a href="#">${job.company}</a>
+                    <a href="#">${job.title}</a>
                     <p>${job.location}</p>
                   </div>
                 </div>
                 <div class="divider"></div>
                 <div class="work-info">
-                  <h5>${job.title}</h5>
                   <h6>${job.salary}</h6>
                 </div>
                 <div class="button">
